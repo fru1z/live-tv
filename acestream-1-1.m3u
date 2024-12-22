@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/romania.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://iptvx.one/EPG, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
 http://192.168.5.50:6870/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
@@ -207,6 +208,8 @@ http://192.168.5.50:6870/ace/manifest.m3u8?id=621f7215bb1f5593aa118e8540a1bb3aac
 http://192.168.5.50:6870/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png"  group-title="M LaLiga", M. LaLiga 1 1080 MultiAudio
 http://192.168.5.50:6870/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png"  group-title="M LaLiga", M. Laliga 1 1080P
+http://192.168.5.50:6870/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png"  group-title="M LaLiga", M. LaLiga 1 1080 MultiAudio
 http://192.168.5.50:6870/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png"  group-title="M LaLiga", M. LaLiga 1 720
@@ -336,9 +339,9 @@ http://192.168.5.50:6870/ace/manifest.m3u8?id=60106275d34f995e26bb2cc4a21a42f586
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg"  group-title="Otros", tdp 1080  (TeleDeporte) 
 http://192.168.5.50:6870/ace/manifest.m3u8?id=61b9b271c16f970aab43cb753c5f8be181dceece
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg"  group-title="Otros", GOL TV 1080
-http://192.168.5.50:6870/ace/manifest.m3u8?id=d4627f7b6b237a8556819445b3283d866caceca2
+#http://192.168.5.50:6870/ace/manifest.m3u8?id=d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-54B862044B-seeklogo.com.png"  group-title="Otros", TENNIS CHANNEL
-http://192.168.5.50:6870/ace/manifest.m3u8?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
+#http://192.168.5.50:6870/ace/manifest.m3u8?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
 #EXTINF:-1 tvg-logo=""  group-title="1RFEF" tvg-id="Canal 1", Canal 1
 http://192.168.5.50:6870/ace/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo=""  group-title="1RFEF" tvg-id="Canal 2", Canal 2
@@ -381,4 +384,5 @@ http://192.168.5.50:6870/ace/manifest.m3u8?id=2c6e4c897661e6b0257bfe931b66d20b2e
 http://192.168.5.50:6870/ace/manifest.m3u8?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg"  group-title="F1", DAZN F1 720 (Formula 1)
 http://192.168.5.50:6870/ace/manifest.m3u8?id=268289e7a3c5209960b53b4d43c8c65fab294b85
+
 
