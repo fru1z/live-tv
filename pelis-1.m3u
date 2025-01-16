@@ -1,11 +1,271 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNXfG1CBVzffksd2EkEpJ9NXFOT.jpg", group-title="Pelis 2025",Touch  BluRay 720pRip [7.4]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=2cca50a58fcf5a9df10ec81efd7883c23ac0b6a8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1U2HszJHEIf3ZcUhqIFHROB5wnD.jpg", group-title="Pelis 2025",La habitacion de al lado  BluRay 720pRip [7.2]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=98e43ce606572c2665510da8dab5b8264262d38f
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fks0SX3SAOjjV6Rd9sJhXPyI5ai.jpg", group-title="Pelis 2024",Perros de guerra  BluRay 720p [6.3*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=4e1c62ae3f8bd2722ddb8ac98ad1b0a76d6a0c7b
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg", group-title="Pelis 2025",Ad Vitam  BluRay 720pRip [5.7]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=ce8683d392cdb5e4fea9a0cdb4faf6cc3878cdf3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5c8Gnz9qmeQUGVm6dJQkuH64Bzv.jpg", group-title="Pelis 2025",Yo no soy esa  BluRay 720pRip [6.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=d4fbc0af2831e5c387a808bc4a9ddf7030549797
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vdqmGEWEzgcDI3S5ryeE59P2QD.jpg", group-title="Pelis 2025",Palacio Estilistas  BluRay 720pRip [5.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=407e50d32ded227956318f212fade8e00a379fb6
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEHIVyJB9VWLF3cuJOpYjJjegd1.jpg", group-title="Pelis 2025",Aftermath   BluRay 720pRip [6.3]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=9a39f53b2c880d131d2c5a3b82d336a5765cadd7
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgs8J9s8b04z7yNWKyOHfY9DuHq.jpg", group-title="Pelis 2025",Treasure  BluRay 720pRip [7.1]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=40ced6a14b61516a8290eebfa8ab4e8ab4d6cfb8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2E1x1qcHqGZcYuYi4PzVZjzg8IV.jpg", group-title="Pelis 2025",Wicked   BluRay 720pRip [7.3]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=d7351ece69d75d775128026ea7ad3b29b94089de
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MOjjaavFDjkoOO9PMq37f87SCn.jpg", group-title="Pelis 2025",Sissy  BluRay 720pRip [6.1]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=e449232b939b2aa2930d47fcee59fb2ebb39dc57
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEbQi5QWUg3CQ9R5dwvPBvbOX17.jpg", group-title="Pelis 2025",Kneecap  BluRay 720pRip [6.9]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=55baa15a1b6d2859d1beb43c3e73f2c683c8d1a8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3eg88OcnLcCihQdaW3IAOlui4F.jpg", group-title="Pelis 2025",La balada de Davy Crockett   BluRay 720pRip [4.5]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=4a4c0df8e1b0022da15f3112c3837a907602c652
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wfbaGi9wS9wKvpN3eMSRgfgbkM.jpg", group-title="Pelis 2025",Te negroBlack Tea)  BluRay 720pRip [5.6]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=e969eb2ffa59e201fd299d800861ce66ae376f01
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lkm4eAvHy1uCs48GEwMxgwNdgd.jpg", group-title="Pelis 2025",El rio de la muerte  BluRay 720pRip [7.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=8ec3c46da5e5c9132fafc9367a1f8937c4cea5a7
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEnct8jeMHYzOfm5Y6QmxD3V61t.jpg", group-title="Pelis 2025",El TitiriteroThe Puppetman)   BluRay 720pRip [5.7]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=24c6b658e15d3ed177175e1ccabab0907cdf5588
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXWJGRUqztTkflac30jjd2bjvBU.jpg", group-title="Pelis 2025",Un silencioUn silence)  BluRay 720pRip [5.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=2409a6d5cbcdbf81faf955a3ae65a759cd709037
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVNOP5Zw8cmc4W3f0o2SpMoLSjI.jpg", group-title="Pelis 2025",Campeon   BluRay 720pRip [6.5]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=36db6cc2fdecdbc4975770689c9fa19637c6d442
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8R5s0optPNlTncP876bK8gWGkRK.jpg", group-title="Pelis 2025",Problemista  BluRay 720pRip [6.8]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=771d4604d88ed043711ad3db527341f0b13004a2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AH3S0xMEYW20KGI6CSPO1W70bo.jpg", group-title="Pelis 2025",Self Reliance  BluRay 720pRip [5.9]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=79fb78509b7e61e1fcd9ec2990b816c815cc48a1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myS41ZUmFvslkT8LeD2irAKxyrf.jpg", group-title="Pelis 2025",Largo Winch El Precio Del Dinero  BluRay 720pRip [5.9]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=bc0fc7bd1094a3b67b326b6fe15774af6ef6e2ab
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dasJ58GGFcC62H9KuukAryltUp.jpg", group-title="Pelis 2025",Exhuma  BluRay 720pRip [7.6]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=c59ac6992eee4b0a3fd7faac1e1c6b09600bb2ad
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rb3R60903ghdBMtlo2EyCZ6WEdY.jpg", group-title="Pelis 2025",Didi  BluRay 720pRip [7.1]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=64396cfc8d7386d09e120602b92f4e62b4cc8132
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KGKCeO3GqX74t0HnHyPVClf5Ur.jpg", group-title="Pelis 2025",Depravity  BluRay 720pRip [5.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=3ea17f334e49551af6dc0ca054ab7cff61ca59e0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTBiU27XdteIeNRKqsr7sM5vA2P.jpg", group-title="Pelis 2025",N 24  BluRay 720pRip [7.9]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=7b155a260d5e4604dedf09deba767d325f0f8d96
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2bSDM4mfdQBOx7su3PhiFffnn6.jpg", group-title="Pelis 2025",El 47  BluRay 720pRip [8.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=35b609a6c4f87744bca4e3119091fe3bb7141b03
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTgdFvMZiIG8c3pwBNpTQw82G70.jpg", group-title="Pelis 2025",El Barco Del Amor  BluRay 720pRip [5.7]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=be44ba8b3139d762a56815c03ffafd2f638f9ed2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3G5XLqmJSs4RvozoIsqaTWTHRq.jpg", group-title="Pelis 2025",Ladyof The Manor  BluRay 720pRip [5.8]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=d38a9779df2e4f9a53015d3700d7a745abbc78a7
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2igE99PVBEMsry3qEGEH3rM83K.jpg", group-title="Pelis 2025",Alas Blancas  BluRay 720pRip [7.8]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=d4cd0fd87e900cb04f43726f01d1d1a395c1885b
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIof786gtEiJjAGBxrAaxDrWnCU.jpg", group-title="Pelis 2025",El Caso Abel Trem  BluRay 720pRip [7.1]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=44e28a76e19bfac48cc4390fa73e2cfb2d0af4f9
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWPoG6aAiovBDDYJWFPMWIO15xy.jpg", group-title="Pelis 2025",Reir Cantar Tal Vez Llorar  BluRay 720pRip []
+http://192.168.5.50:6870/ace/manifest.m3u8?id=14d7262130b8d5a3bdac58f6544f41c4bd41738e
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luQa5iUFp7pagD7jVhYM1FlWnJo.jpg", group-title="Pelis 2024",Los Radley  BluRay 720pRip [5.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=e83f4b5d973e94ee21658f57326230199512d2ad
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyjEPno8omeDYVNqUZS2RiEpuRC.jpg", group-title="Pelis 2024",Apartment 7A  BluRay 720pRip [6.1]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=3753be918be41e6dcd8c3a07ce45cb4d0414b0b2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ri9cazZeb7QKlmJpLZ7PpJelHb.jpg", group-title="Pelis 2024",Herencia Siniestra  BluRay 720pRip [6.2]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=6ca0898c12636ca92fa131790e80fb79aabdc308
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwrhEshqC1S5SiykRTTXyJo7t0S.jpg", group-title="Pelis 2024",La Gran Escapada  BluRay 720pRip [6.8]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=8fb1642de7dc632c123758b32575d7bbbbd53e82
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1YApVTO1gHudv7avTRSSvUqIDR.jpg", group-title="Pelis 2024",El Reto De Su Vida  BluRay 720pRip [7.9]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=99856c79ed03492e9b2e0ffd14993b2acf9dc172
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wkmbS9g79hnasGpmJJsjwQbxp8r.jpg", group-title="Pelis 2024",Volvereis  BluRay 720p [7.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=40a441f45be0156a7c547eac3efe1e6ec224c88a
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5t8AUixdbBjRXFX9owwz8R5W6Ug.jpg", group-title="Pelis 2024",Algo bajo el agua  BluRay 720p [6.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=2002973920f1a62ae8aea335d754a58b6f65ae85
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hmIpKf4qRCmHGnRUNXE8E9r7zIz.jpg", group-title="Pelis 2024",Culpa tuya  BluRay 720p [7.8*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=3ad8b7b9ab98b7f3764eda5e0ee08e5a82b2c0fe
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3GSy51XwUPz8db4BVsWjvQeFO4L.jpg", group-title="Pelis 2024",El hombre del saco  BluRay 720p [6.1*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=520cfb67d71a21261123bfaf6e5e1c11e762ed5a
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ewvaEBFfrsddWWo4Dj7G54PGIFj.jpg", group-title="Pelis 2024",Mi amigo el pinguino  BluRay 720p [7.6*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=df6b14aa38316e212ff0931599996c8180667b2e
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6RgP9K7HBekNbW6TimYroSrzYay.jpg", group-title="Pelis 2024",La Bestia Oculta  BluRay 720p [6.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=3e6f837f4a26feecbfde069b27b02b48c49d0761
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6EO0cjZt2vzAOmuDJZGED6GQmi4.jpg", group-title="Pelis 2024",AliceSubservience)  BluRay 720p [6.7*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=3086b142c0348666ff7794f13521d918a69270cd
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg", group-title="Pelis 2024",Gladiator II  BluRay 720pRip [6.7]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=73af31051c285278d36d653dd0f6b1f86d5e7278
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukqWWQrJRgJym6dsTt1x3EwR2Kp.jpg", group-title="Pelis 2024",The Thicket  BluRay 720pRip [6.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=80d377017eba007c6762606ef79a4bfa0af547ee
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elKf8Y5yi6Rl6teKsrQg0GAwaQD.jpg", group-title="Pelis 2024",El despertar de la bestia  BluRay 720pRip [5.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=818df855a18d26efc5636334422ff04a85b9afe7
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txA4srjcxa4HiWEaMyrNtWHbR5a.jpg", group-title="Pelis 2024",Monsternado  BluRay 720pRip [5.2]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=0bc7ceca1b0e1414cd7973b12989a26f058bd622
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4Zb13jow8RqJkYFgCUSdmzJCWq.jpg", group-title="Pelis 2024",Elevator Game   BluRay 720pRip [5.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=0bc7ceca1b0e1414cd7973b12989a26f058bd622
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tvAnzZj9e9AjdoHaN9jshm2Cjw.jpg", group-title="Pelis 2024",Seis triple ocho  BluRay 720pRip [6.9]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=c3cbe4c966d305f6e37c14e016b2b24633a37d67
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6eYKGvKoBb13wQwpIvYE410Dph2.jpg", group-title="Pelis 2024",El cuervo  BluRay 720p [6.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=60d5325e9d6568bbea3d1440570ddb2153096e52
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jYGDR24XdGne6yr5uhG2waaHxDF.jpg", group-title="Pelis 2024",Odio el verano  BluRay 720p [6.6*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=51a1f9231d32f9a8a49fd574b9870d04f09d4287
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zDFuyTDG4L0HJ3PqjFjBCv1Ap78.jpg", group-title="Pelis 2024",Siempre jovenes  BluRay 720p [7.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=9d4209f05cda99d06580e6f14b2f5478821b4e86
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g5CnLouFAgHIfwsXFvah5iUchIS.jpg", group-title="Pelis 2024",Bonnard, el pintor y la musa  BluRay 720p [6.2*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=dfaaa36e4a63bea4fe9c92fda0e28a341135d115
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cByBSxec9J5IMb3u9tNMtkLPnWc.jpg", group-title="Pelis 2024",Estaci n Rocafort  BluRay 720p [5.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=9ab629ea1c08458bda639257adcf5e59ac646d45
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bAevTBk5Tyo56S4tSn0s37Li6Yv.jpg", group-title="Pelis 2024",Ferry 2  BluRay 720p [7.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=0a52b8a9e976fd97597491ae840e1ff32f01a676
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h26S6MLRsHTUlecrqJul7YbJFVp.jpg", group-title="Pelis 2024",Hotel Bitcoin  BluRay 720p [-.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=ddfd934681b74725ef19bc7a31c8bcceaa90e954
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w95whXyEQLg6y3bkypCUOzXRae1.jpg", group-title="Pelis 2024",Minore  BluRay 720p [-.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=debb6c6edcb2e0801cf6705d8e1d80eb32d21356
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7pVykyIuGIfikETG3pMSWyqz3Zs.jpg", group-title="Pelis 2024",Navidad en familia  BluRay 720p [5.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=4582c2a2d2974d4849e055af5e2196bac921f922
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vWWU7Swdhb0g4SeQRqbgKUZMqtt.jpg", group-title="Pelis 2023",Santa, eres tu  BluRay 720p [7.6*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=be1700b3ae2b85e3e8693d0d7cedceebbd7513ec
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s6rbC03EEhsyljKrmSjJ4mY3Xqn.jpg", group-title="Pelis 2024",Seis Triple Ocho  BluRay 720p [5.6*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=c3cbe4c966d305f6e37c14e016b2b24633a37d67
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ypz7emNtq2ZHWynuFHG1MmJLBu3.jpg", group-title="Pelis 2024",Un lugar com n  BluRay 720p [6.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=3f1e0ff6a7eb4bc6e804452dc24cd5c8fbc54ccc
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYGDR24XdGne6yr5uhG2waaHxDF.jpg", group-title="Pelis 2024",Odio el Verano  BluRay 720pRip [6.5]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=ec41ef2335d09e1f72060eeb500c6fdbda803a15
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w95whXyEQLg6y3bkypCUOzXRae1.jpg", group-title="Pelis 2024",Minore  BluRay 720pRip []
+http://192.168.5.50:6870/ace/manifest.m3u8?id=debb6c6edcb2e0801cf6705d8e1d80eb32d21356
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h26S6MLRsHTUlecrqJul7YbJFVp.jpg", group-title="Pelis 2024",Hotel Bitcoin  BluRay 720pRip [5.5]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=ddfd934681b74725ef19bc7a31c8bcceaa90e954
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypz7emNtq2ZHWynuFHG1MmJLBu3.jpg", group-title="Pelis 2024",Un Lugar Comun  BluRay 720pRip [6.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=3f1e0ff6a7eb4bc6e804452dc24cd5c8fbc54ccc
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w4ZdsNwJLK0aBqz6ird9EBXdRt5.jpg", group-title="Pelis 2024",Robot salvaje  BluRay 720p [8.3*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=1bbe75f5ab6b2ca50c4f63570be1f384eeadd45b
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nU5ZeQpy32xbwtxHua1ZkT5QquZ.jpg", group-title="Pelis 2024",Somos Zombis   BluRay 720pRip [5.5]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=2188e647c750c376a62fb61cc9baf26dee1b24e9
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLbFUAhAKJJRACzSQ1pQoeQkarR.jpg", group-title="Pelis 2024",Fuera de temporada  BluRay 720pRip [6.9]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=f94de345c5d6e3669d75502251b0909251a0f5b8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpszN3PHW9ubsKcrCia1g6y8mAr.jpg", group-title="Pelis 2024",El mayordomo ingles   BluRay 720pRip [6.6]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=6b554b889828c08cfa1e0a0fc329f98e956496b8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg", group-title="Pelis 2024",MaXXXine  BluRay 720pRip [6.4]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=fb204b803f9cf864c01e97c19d90ecb6d43a35f9
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ob8mHJvE78kjbs7HtzdbeytNHXa.jpg", group-title="Pelis 2024",Cuerpo escombro  BluRay 720pRip [7.5]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=c6a7bc4b16250459a328ff86a409f041029d73ef
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xtlfhca2CKI9nalDmWJnFx4mccI.jpg", group-title="Pelis 2024",Isla perdida  BluRay 720p [6.3*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=226aeac89b51e65d4a9560b0834c8d88766efc2e
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mvWssbFUklZabYb5BLqftpKeBC.jpg", group-title="Pelis 2024",Equipaje de mano  BluRay 720pRip [7.3]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=1c78c4a2e8c74e1b1429b7df712e1d1a4dc46744
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg", group-title="Pelis 2024",Red One  BluRay 720pRip [6.7]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=ab09b27183f6e87ecd56e6947a1b823d93160dfc
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82lu2Rb0MoBpfyUtoVwhLiVrDlF.jpg", group-title="Pelis 2024",El Caso Miranda  BluRay 720pRip [7.1]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=6cca12c8e2844ce8d71e6e4ff43701ef66b4498d
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wec38vzKfaNU39y8XzWg8OJffe4.jpg", group-title="Pelis 2024",La peor obra de navidad  BluRay 720p [8.7*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=2e6891c2cdf057ab4b17d56bf0d7d1a1830a5d9c
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/deCHAeP0QeW2v08I5Cz0jKcNmJ7.jpg", group-title="Pelis 2024",Venom: El ultimo baile  BluRay 720p [6.7*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=7090c74fa7a932968c30ac54e98b1b3099a51705
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/omKQf1q5Hbu9ZtRl5tSCYJgRw63.jpg", group-title="Pelis 2024",El conde de Montecristo  BluRay 720p [8.2*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=cec2d7f8ad9226e9648c5a5f38a89d5548cd081e
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3KVvfCHf4Eu9XOG27iq3WPcAjR5.jpg", group-title="Pelis 2023",Matronas  BluRay 720p [7.6*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=a477f6309cb9bd06470d42e6e70abe62d0ed43a6
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2RQVe7ZaYJlldv4U6zFVLRr0Q2G.jpg", group-title="Pelis 2023",Dreamin Wild  BluRay 720p [6.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=06a9773887feedacb1f13f05de72379c57076699
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vVzbznz1Bp2LqJR4cqMExysXaN9.jpg", group-title="Pelis 2024",El problema con Jessica  BluRay 720p [6.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=0dbb3afe68f65966dcaeab1d3d171d757fda69b2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kIc4IgbPjPGWmL84Vv1l0LUyVMY.jpg", group-title="Pelis 2024",Lo poco que me queda  BluRay 720p [6.7*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=904231dcb1b2634cca98a78c6920cdcdf58547c4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2HK59hG2qd3A1I3u2ZHHLNrqk57.jpg", group-title="Pelis 2024",Niegalo siempre  BluRay 720p [6.6*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=9158706dab282af00f06bac929b1ca1a9cae90ab
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zLY7SeTTYSYq6X7KHZSqvDsdOHn.jpg", group-title="Pelis 2024",The Outrun  BluRay 720p [6.8*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=6bf782bfb3498159e827643e029be328df503868
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5hSbBRwyvS4lMkfQBVP8KU7SA55.jpg", group-title="Pelis 2024",Despertar  BluRay 720p [7.3*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=460ba4b4eef95598225ce0acae5cea1021761247
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RQVe7ZaYJlldv4U6zFVLRr0Q2G.jpg", group-title="Pelis 2024",Dreamin Wild  BluRay 720pRip [6.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=06a9773887feedacb1f13f05de72379c57076699
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVzbznz1Bp2LqJR4cqMExysXaN9.jpg", group-title="Pelis 2024",El Problema Con Jessica  BluRay 720pRip [6.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=0dbb3afe68f65966dcaeab1d3d171d757fda69b2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEbJku8PDizV2P5IQmHA0dcyf50.jpg", group-title="Pelis 2024",Lo poco que me queda  BluRay 720pRip [6.7]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=904231dcb1b2634cca98a78c6920cdcdf58547c4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wB5rxO8MasOje26FHgeEWWuBPYW.jpg", group-title="Pelis 2024",DespertarReawakening)  BluRay 720pRip [6.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=460ba4b4eef95598225ce0acae5cea1021761247
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hOSH6AGxH202N4a1CSJAwgRJzV4.jpg", group-title="Pelis 2023",El ultimo videoclub  BluRay 720p [5.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=9cb60a67b08f1efb48577027e6b9f998c38f277c
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oIkS6IRBmj1g2EUUgJOMRwk5hRh.jpg", group-title="Pelis 2024",Maria  BluRay 720p [6.2*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=e6be502b37865b3ea61b95c04e3184ac4db5a108
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9ziVr2UUvwqbjD7lf1R0sdL6DNv.jpg", group-title="Pelis 2023",Una madre de Tokio  BluRay 720p [6.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=d8cdc01aecfce915130e4c262e242b5a75b99eb8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97PaQ7r4H3y0x9RTXusfedmzf86.jpg", group-title="Pelis 2024", Christmas Bloody Christmas   BluRay 720pRip [5.4]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=4efe5e4a36b71c632ed626777bd04b6a3417160f
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69mibzXpf4w2woamiTcv7Rg7ZIe.jpg", group-title="Pelis 2024",El ultimo videoclub  BluRay 720pRip [4.8]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=62ba8408fdbfdd5781f1127776abdd8e245f23c7
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mMXop0s2MFstyODZvRliy4yzZW6.jpg", group-title="Pelis 2024",Mision en Taipei  BluRay 720p [6.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=2216b0cf537e1da64c85de44267ce8d34bec250c
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/13vQW2fwJlH7Vs23o7zdauWxr6F.jpg", group-title="Pelis 2024",La virgen roja  BluRay 720p [7.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=12858b3089fd2831177b5d9831b329df1bb2b1ec
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uYkQzMhQlItzaRRKQPjvooP3tn7.jpg", group-title="Pelis 2023",La mujer del presidente  BluRay 720p [6.3*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=ca11311b59f1ddc73833d62210895321d82042d5
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/H2mQyZ5OtAi0BxqxnP3Id8MpXB.jpg", group-title="Pelis 2024",Mi Vida Descarrilada 2  BluRay 720pRip [5.3]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=f06d1da9eb18114602686c14ee833dbd6be38b48
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2snH1Itt1Zs20KFLyIFqPOkyJaV.jpg", group-title="Pelis 2024",La princesa adormecida  BluRay 720pRip []
+http://192.168.5.50:6870/ace/manifest.m3u8?id=eef4f251a8a625ed5effa6a873d8d6abfa9ce9a9
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5j9MxMx24tPuTSTuWMW1eZP1w1M.jpg", group-title="Pelis 2024",Jack Llega A Tiempo Para navidad  BluRay 720pRip [6.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=54818132c6d01dbf8d391cdee96bd28da495152d
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg", group-title="Pelis 2024",Saturday Night  BluRay 720pRip [7.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=13a0d7dc62b899d13da82993feb24308765e4373
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qnebDLPKqYjiYvRlThzh4c93pw.jpg", group-title="Pelis 2024",Jurado N 2  BluRay 720pRip [7.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=f65e25d7131b9bf0ee5137e4333657f5e513b0e8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5cvYhiyykZrliPSPqO4iFGJMus.jpg", group-title="Pelis 2024",Romance Asesino  BluRay 720pRip [6.3]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=d3fa058c01024e4ebe5f63913d4639b6e349ee0d
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBbtiaUiRam0DeifcJnbJpWSCKC.jpg", group-title="Pelis 2024",Big Boys  BluRay 720pRip [6.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=0a8c8f105c798641809e0c2d86889125fe3452e5
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg", group-title="Pelis 2024",Crescent City  BluRay 720pRip [6.1]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=1f7166903fcc259e49471d9a0b37506401aff44f
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lMbcRrgPkXYcMHToBXxkHtbdPK.jpg", group-title="Pelis 2024",Marina Unplugged   BluRay 720pRip [8.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=82991c3a722bd5a1218999d95f6b3625e27b4c39
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vcJFVK1IlaI4zejAp8NpaedauOu.jpg", group-title="Pelis 2024",Un regalo para papa y mama  BluRay 720p [6.2*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=da285a98ad0b0b4a8a9d71ac660d5c5d2d79063c
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2Ct65EWmZeE0Fd32YDRDN89d57W.jpg", group-title="Pelis 2024",La hermana de nieve  BluRay 720p [7.6*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=781f81ad391bb4b143651147c30fc4cc4f827353
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fAlb6ihgHiMBbFCJo0FFZ1g4R0Z.jpg", group-title="Pelis 2023",Huida hacia Berlin  BluRay 720p [6.6*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=0f26afebc22a869eaf26c3b2a3ec18eed0f05a62
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/73ngiY3ZRKO85jClpsahBJhbXaf.jpg", group-title="Pelis 2024",Mercenaria  BluRay 720p [7.3*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=527a2feabd6920c9d61088bec30de8c3d6630ef5
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/10IpeoVvlpRaORSKPbU58kTEvjm.jpg", group-title="Pelis 2024",Sweethearts  BluRay 720p [6.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=fc61b7e700ad6b5b7f19af51ee1417ecb46eede8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrZ4tlX7uoLY4joS1rwNaRnW3as.jpg", group-title="Pelis 2024",Huida Hacia Berlin  BluRay 720pRip [6.5]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=0f26afebc22a869eaf26c3b2a3ec18eed0f05a62
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUcuageYgv9SsJoWuc0seRWG6JC.jpg", group-title="Pelis 2024",Thelma La venganza nunca ha sido tan dulce  BluRay 720pRip [7.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=4fb0e9560ffcacda68314fbe21baaeb6df23f94c
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZ9kdSBEoJNkzZPvQOVzS1uLMk6.jpg", group-title="Pelis 2024",The Moor  BluRay 720pRip [5.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=1292ac245fa2b3d39b6493e3c74e9c98437626bb
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7isqmWUryG2xksrw0E75m3vYTFd.jpg", group-title="Pelis 2024",Nuestro secretito  BluRay 720pRip [5.3]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=9a17fa166165719268d117f4dee91028a7c0cf3e
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7jqO6BP1j9WZ5OPmPcmL2lGSa3G.jpg", group-title="Pelis 2024",Norbert(a)  BluRay 720p [6.6*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=a7ad3eb0256f39b141c929c39f115510dcafa96c
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/biTOtPfIvLI4dbT2uJedyoFAjVm.jpg", group-title="Pelis 2023",El buen italiano  BluRay 720p [7.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=b123175cfc61d4a3cf61bfaad3f00868f7c69391
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bpgokfsdcblhsdNEcbvWfunkAIq.jpg", group-title="Pelis 2024",Mala persona  BluRay 720p [6.0*]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=ed7fc2833b39cef41dfd6a05dbb6c66ad926e150
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLGHU3pTLyHnQlgzstn5YJCeXy3.jpg", group-title="Pelis 2024",HLM Pussy  BluRay 720pRip [5.8]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=435cec52829920641f0ecfcd7049c1a8e2aa0622
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLsA3COMQXYYWIzrDSv7Uia1UQ1.jpg", group-title="Pelis 2024",La Caja De Cristal  BluRay 720pRip [5.0]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=99f0a7fccd8447c4cc423ade008684777e56197e
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPvFmQZM5HMspryyYbrtW02NR0G.jpg", group-title="Pelis 2024",1992  BluRay 720pRip [6.1]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=acf9b83cc3ef0fc651b009916c3011190f2a0cec
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Avln37aRkpqiLFM58BPQfppnDKO.jpg", group-title="Pelis 2024",Puntos suspensivos  BluRay 720pRip [6.5]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=e247cc17aae1044b3ce2f7508531895ffa66ee8c
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDtkrO2OAF8LKQTdzYmu1Y7lCLB.jpg", group-title="Pelis 2024",No hables con extra os  BluRay 720pRip [7.4]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=8ef1319e06c099807494ad04e2c40fa353d53614
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XsQVmGQukwIVDM88Aa0C7L5hCp.jpg", group-title="Pelis 2024",Las desapariciones  BluRay 720pRip [5.8]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=d1833c6793d6601ffb7a175b3e6ea5318764224c
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgampq63AqCrza6bnvmWqCcvCzY.jpg", group-title="Pelis 2024",La leccion de piano  BluRay 720pRip [6.6]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=47bef60c737f5704bc91917ea8439b215996bb8a
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8qtMeCskitW5QwSu6O1nP4jN6z.jpg", group-title="Pelis 2024",El silencio de las palabras   BluRay 720pRip []
+http://192.168.5.50:6870/ace/manifest.m3u8?id=cf5f1c1f085c00ab0318e2a6fe84ed284d6c51ff
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkNK36hQv8SWiwiQoE7naRfP0zL.jpg", group-title="Pelis 2024",Sin rastroBoneyard)  BluRay 720pRip [5.4]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=0d473691415692ced99c391255e473336aa7baa7
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80Fpd8a5BibX3kAD5lpZhCKqSyV.jpg", group-title="Pelis 2024",Tigres y hienas  BluRay 720pRip [7.3]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=b378072cd80eeae1eb56a6c6122b7943f5a455c0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhGaCXeBvFo7495aIZr261l6kb0.jpg", group-title="Pelis 2024",El monje y el rifle  BluRay 720pRip [7.2]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=a3a2ad58316937a7d0f94db335c120e18619ef32
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zciWal3a5QPjqqJAgmpHVLBlFMj.jpg", group-title="Pelis 2024",Joy  BluRay 720pRip [5.8]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=17db0c69bc76d42f10b70b11bb080f025ef81bed
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9tyjbF2rugENtBolTtEhHOXgzD.jpg", group-title="Pelis 2024",Blitz  BluRay 720pRip [5.1]
+http://192.168.5.50:6870/ace/manifest.m3u8?id=6f1dec9f43edb70d0d8426fd80dda439e88a2ebb
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dN8IIAvzIW3XX8aOvA9aQubK4hd.jpg", group-title="Pelis 2024",Cambio de bebes 2  BluRay 720pRip [6.0]
 http://192.168.5.50:6870/ace/manifest.m3u8?id=5fbe2a12f82673dc0075e963d9cc10379d45f6f7
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dN8IIAvzIW3XX8aOvA9aQubK4hd.jpg", group-title="Pelis 2024",Brooklyn 45  BluRay 720pRip [6.0]
 http://192.168.5.50:6870/ace/manifest.m3u8?id=9b67a90e36e6a599714306146587318404b8cc97
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4t80WORFWqDYf4BRwV2jrXNHJdN.jpg", group-title="Pelis 2024",Los festivos caballeros  BluRay 720pRip [6.3]
 http://192.168.5.50:6870/ace/manifest.m3u8?id=350d1225333340e0501822739efa6c6f3c21292c
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w39qKYjltCix18BwtoZ1e45usdb.jpg", group-title="Pelis 2024",GTMax  BluRay 720pRip [8.1]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx92hl70NUhojjO3eV6LqKllj4L.jpg", group-title="Pelis 2024",GTMax  BluRay 720pRip [8.1]
 http://192.168.5.50:6870/ace/manifest.m3u8?id=807e89a3d03ba8ea7730b1e6a8e517670f52cd00
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w39qKYjltCix18BwtoZ1e45usdb.jpg", group-title="Pelis 2024",El metodo Knox  BluRay 720pRip [6.7]
 http://192.168.5.50:6870/ace/manifest.m3u8?id=fe2ae143e73990dd68330dffe6adee2dd268cd99
@@ -1683,280 +1943,6 @@ http://192.168.5.50:6870/ace/manifest.m3u8?id=c104f4859b7ab912a8b777a309b4c77518
 http://192.168.5.50:6870/ace/manifest.m3u8?id=9f210615784ff28e8fffc46f0090b59d1ce1588c
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ePwZs1oOh4pg8UZP8DuVZZeIn89.jpg", group-title="Pelis 2023",Un hombre de razon  BluRay 720pRip [6.5]
 http://192.168.5.50:6870/ace/manifest.m3u8?id=48754357108f0ba04680aecffd779e57901ac88a
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qQLC8iFicw1vVVbGMyyZzeghC4w.jpg", group-title="Pelis 2023",Navidad en Candy Cane Lane   BluRay 720pRip [6.8]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=28824accbb1d27f10adec94b684964d21fcbca83
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s0cWPhzpKJ4kspaleMcOduHBFBw.jpg", group-title="Pelis 2023",Godland  BluRay 720pRip [7.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=616a3f8713ffda629cef48650af63fbb982a64bb
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tea2gDZPxw0wfKC2S2VRWHagtt4.jpg", group-title="Pelis 2023",WifeLike  BluRay 720pRip [7.1]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=3c37dfa13840f7d00cf8a04517dc84a410b3c95f
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uNzgeMetu9l4q9NDw7gtiUFwPOJ.jpg", group-title="Pelis 2023",Margaux  BluRay 720pRip [6.6]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=d23aadb4d9456cb4e4ec9e7d437e7e9572634ff6
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h0AKLEk4XCajdav1hSHIR71cU66.jpg", group-title="Pelis 2023",Corre y dispara  BluRay 720pRip [5.4]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=79a726ef0e3db5e3aa14d19eca78b118d7f244cb
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cnXvfZrj1azU5Rvbb8D7Fz0wkyt.jpg", group-title="Pelis 2023",Paisaje con Mano Invisible   BluRay 720pRip [6.6]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=3029586bb9927099802d8583a7d58f10b4001ec9
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yrr7wjjbG56RbZvJoRZtSqkOMlQ.jpg", group-title="Pelis 2023",Me quiere No me quiere   BluRay 720pRip [5.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=817518900e4f65760f3e9b43e5b09c7ea4f0e4fe
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3zOCE9uyOHeMT7VVcQ1QXZDSTGr.jpg", group-title="Pelis 2023",Hard Days  BluRay 720pRip [7.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=2f91741836c53c572b71d1af277057967f7dae21
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUJJXVugggonJ0hpWtj9Qsxode1.jpg", group-title="Pelis 2023",Familia revuelta  BluRay 720pRip [5.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=8d08033bb5722ee95961fa5cc8f92f024f47d3a0
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iqShlRPeXZwpVQ7s3j4MMIUMVos.jpg", group-title="Pelis 2023",Aquello que me contaste  BluRay 720pRip [5.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=287899a683a953ccd52e30b9d763b82a7d867772
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8aoIMYZUu8DRrJFkDvz13rehSFL.jpg", group-title="Pelis 2023",Galaxy Games  BluRay 720pRip [4.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=84228a3d80c96a716730cfcda5af52d5ca61271c
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kT3Zy7kOQERHnpEHT1wMwXEpJsk.jpg", group-title="Pelis 2023",A Tale of Two Guns  BluRay 720pRip [5.3]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=34f622f631902ed3f63a415e581ded494161644b
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7MVENxKbO925bTm6IUb4xtZ65NZ.jpg", group-title="Pelis 2023",No Name and Dynamite  BluRay 720pRip [5.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=72091ca42b1d51f9db219c8998daf94317551002
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yiNwznQaK8oJRXvYxsm95vsvYC.jpg", group-title="Pelis 2023",Elf Me  BluRay 720pRip [5.9]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=7a93f3e1252d420239d912cac5977bae86a50999
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k7Hd7tYP7FoxI9uIMK4DOuNfCqv.jpg", group-title="Pelis 2023",Hijos de los talibanes  BluRay 720p [6.0*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=b9de4fc8bf9436149c977830d03bdf365339e90b
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hs41WYhEuaq4PaBbtaoCfGFEebi.jpg", group-title="Pelis 2023",Leo  BluRay 720p [7.9*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=2e04d1ee1dceab17641a42e358e6aaab4a204afa
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTbaGcKJgpiBpcnIDG2dvhOBBjg.jpg", group-title="Pelis 2022",Holy Shit!  BluRay 720p [6.0*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=2b846c333d24beef370ba0c8e88297c37f296fbc
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHrWqTVds8MQ9j6iJZZ6IiQXbEi.jpg", group-title="Pelis 2023",Ultima llamada para Estambul  BluRay 720p [6.8*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=a6766704a591d73f1b3291e1607169f2bc07d51e
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1JDimECaoNDvW12wNY2FIuTPUhp.jpg", group-title="Pelis 2022",El colegio de los animales magicos 2  BluRay 720p [6.2*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=6e86f22520f8abdc08effe7de9b620c868f401cb
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i2w5JSEPrPOnAXBKnXToCNvgaAg.jpg", group-title="Pelis 2023",El fantastico caso del Golem  BluRay 720p [6.0*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=1eb1d2ee117baa5733ce37c24b3be9dafbb85c1d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sp9gKDSWOpAiyoWLBddgqfilgQl.jpg", group-title="Pelis 2023",El conejo de terciopelo  BluRay 720p [7.3*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=51ed8eabe128d62095f88d7e2b56064aa22258e3
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oZOAe88qvgYBQYVbTdDGEbvm3s4.jpg", group-title="Pelis 2023",No tengas miedo  BluRay 720p [6.8*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=a216ce32097b845aaedc11693641e2aa67744bf0
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sERwJxz0sqsbcUoTm66l9pI6HcH.jpg", group-title="Pelis 2023",Come Out Fighting  BluRay 720p [5.0*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=5d05d4c5c260899474f84080b1167a1ce44aac04
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wQCNCMKVIhNqfRVxvHxz60x42mv.jpg", group-title="Pelis 2023",El cuco  BluRay 720p [6.0*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=c9e298a0a949c0f0240a076f35ec24449533d461
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6shiIHV2XjDK5yErHhoeMphwpwP.jpg", group-title="Pelis 2023",The End of Sex  BluRay 720p [6.2*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=f0e453263f7691ffab4f745daf3396a351a1db04
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k0TjTcPfifQXjpTbE7cueD4XFas.jpg", group-title="Pelis 2023",Tripped Up  BluRay 720p [6.0*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=2ef4ee0f6eaa06037e4c1e6a7b9bda639b6398e3
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xrpgepIdD1yrZQlLR1Ty7XnEQIk.jpg", group-title="Pelis 2023",A pesar de todo  BluRay 720pRip []
-http://192.168.5.50:6870/ace/manifest.m3u8?id=b923916917c4a84426918bbcf82e477064401227
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dBp0REsZkZ1HK1PycwlLdBtYdsd.jpg", group-title="Pelis 2023",Ultima noche en Milan  BluRay 720pRip [7.2]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=947e6fa6965e3b81deb089bcc69518d1489a5586
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg", group-title="Pelis 2023",Believer 2  BluRay 720p [7.6*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=3e2737c851a1d64974438b46883fb96d977c4c1b
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p5GJTRHGGvyJpkO5yEsKuGep5RK.jpg", group-title="Pelis 2023",Rustin  BluRay 720p [7.0*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=1ba825adc58c7741fb22e6d82220df4faec709a2
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oo8LxDORXG9VU4A8GrSdnBFoGOd.jpg", group-title="Pelis 2022",Cata de vinos  BluRay 720p [6.2*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=0afe2bb8c106606ddb0639770f5a218dc28013f9
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qQ7XcEOIktQuixSrOyrLCsAE5UT.jpg", group-title="Pelis 2023",Rally Road Racers  BluRay 720p [7.6*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=573ed22e3329283b72c87866d6b913ef8f9fcbe7
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c6otMCRG9bZzI97o9V8hCkOgUvA.jpg", group-title="Pelis 2023",The Creator  BluRay 720p [7.1*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=6157e8f2e59ca5be675b01b29edd57f86a16d5b1
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fIbgMCU9lOGxJ7yR6owBgDqBVxT.jpg", group-title="Pelis 2023",Bihter, pasi n oculta  BluRay 720p [5.0*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=c96dfed0af4424aaa1ea50d789bff3f81e4ed23d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aV8oX27hhYrWIaGFok6tVgsKYNn.jpg", group-title="Pelis 2023",Amor en aguas turbulentas  BluRay 720p [7.0*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=5d3bba98f7ac80805f5645865e917520c9b14702
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dHzgfoSsdxD0WOJqAjGrzi2tbmt.jpg", group-title="Pelis 2023",Los alien genas  BluRay 720p [5.0*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=b8c1ec26591aee644309dcb63076ac815af678b5
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTzw1ENuMx8bZpmKekIcdFdXwjq.jpg", group-title="Pelis 2022",Unica superviviente  BluRay 720p [6.5*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=ebb13b66e56c8932776506cd7006d6062f849685
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cQvINIqpk81Ax0QCcQXxjGD7Dgv.jpg", group-title="Pelis 2023",Nuevos ricos  BluRay 720pRip [7.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=2daf95676837c1f533e78ee33baf07c9ec1fdcaa
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg", group-title="Pelis 2023",Believer 2Dokjeon 2)  BluRay 720pRip [7.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=3e2737c851a1d64974438b46883fb96d977c4c1b
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg", group-title="Pelis 2023",Rustin  BluRay 720pRip [5.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=1ba825adc58c7741fb22e6d82220df4faec709a2
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg", group-title="Pelis 2023",Menuda Nochebuena   BluRay 720pRip [9.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=09c9dc15d2a3a41f25715ae8ccadb5251aef909a
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r94waWYiNhXoAuCEWBCf2XEEegx.jpg", group-title="Pelis 2023",Te esperare en Venus  BluRay 720pRip [6.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=43cd1251159b4ea5333331a5ed1e951fc62c6f9a
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s8zh9DbnkfGm2IaTZaciyKQd1iM.jpg", group-title="Pelis 2023",Cata de vinosLa degustation)  BluRay 720pRip [6.2]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=0afe2bb8c106606ddb0639770f5a218dc28013f9
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg", group-title="Pelis 2023",Mejor Navidad imposible  BluRay 720pRip [5.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=c2e1155c0094857650af5aca085db13f33aaf4ab
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jiLBqxb1AceLSWy8oPKn4w7DXOE.jpg", group-title="Pelis 2023",Amor en aguas turbulentas  BluRay 720pRip [7.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=5d3bba98f7ac80805f5645865e917520c9b14702
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jfn5p0uC7cuxQSLvBNSWWQ7Iz6j.jpg", group-title="Pelis 2023",Bihter pasion oculta  BluRay 720pRip [6.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=c96dfed0af4424aaa1ea50d789bff3f81e4ed23d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5rZed6NP0ZdmvU2UNeLqMddwAKu.jpg", group-title="Pelis 2023",Los alienigenas han abducido a mis padres  BluRay 720pRip [5.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=b8c1ec26591aee644309dcb63076ac815af678b5
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2jtHkKhkA4kioi4km8uPql5G7WH.jpg", group-title="Pelis 2023",Unica superviviente  BluRay 720pRip [6.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=ebb13b66e56c8932776506cd7006d6062f849685
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg", group-title="Pelis 2023",The Creator  BluRay 720pRip [7.1]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=6157e8f2e59ca5be675b01b29edd57f86a16d5b1
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/92hYmHw1XpMEF7yZUzjOzcO4zmC.jpg", group-title="Pelis 2023",Tiroteo en Rio Bravo  BluRay 720pRip [5.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=d91e32691e0b94b9ccdb495599e8af8cdf9cafc4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vRJ8gn4lapIhQhZDy1222CWCztc.jpg", group-title="Pelis 2023",Down Low   BluRay 720pRip [4.3]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=5d029b52d2b651b071067625fe9efeab931ec168
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uDx3YfFDEAZfK8wMZ1MzvXsnywF.jpg", group-title="Pelis 2023",Te estoy amando locamente  BluRay 720pRip [8.3]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=81dcba401026bb85aeca21e28e1223510dbeb196
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg", group-title="Pelis 2023",El club de las peleadorasBottoms)  BluRay 720pRip [7.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=a7288beef425acf4d69f3fd0901d869bfbd2360d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qvmCPv4Zqu7BAdEOGEFeJWBOt3l.jpg", group-title="Pelis 2023",Una cuestion de honor  BluRay 720pRip [6.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=ef76d76959588b0fa76be503dd10f8cc6f8a7563
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aWDWmO9PrwwrlAjm8tIT2NsPU5o.jpg", group-title="Pelis 2023",Una cuesti n de honor  BluRay 720p [6.6*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=ef76d76959588b0fa76be503dd10f8cc6f8a7563
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jcQBZhO1ZYKyQTELLS3UI41uytt.jpg", group-title="Pelis 2023",El asesino  BluRay 720p [7.3*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=f5f99a7693cdc1be9a2e9bb51b53302beffbf7ab
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Uo4Fu0Tw78bkPvVUv7Bh3jpBcf.jpg", group-title="Pelis 2023",Sabotaje  BluRay 720p [6.6*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=dd7d5aa095747d1729fc799a190df31ea1d8fcd1
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x83FFyGGux31l7OiF9NZHeq6ZWv.jpg", group-title="Pelis 2023",Mafia Mamma  BluRay 720p [6.3*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=ef9696dfbf300647ffbc584cbc45b06261b6cd0e
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lsKpCe7lZtDP2XoVVBrt5jDsEka.jpg", group-title="Pelis 2023",The Baker  BluRay 720p [6.6*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=dc4ae11ae4313811e75af3cd555e1955e0d4f610
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lsKpCe7lZtDP2XoVVBrt5jDsEka.jpg", group-title="Pelis 2023",The Baker  BluRay 720p [6.6*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=dd9027ffca0112a1568d3fc3186e4d9db2d55e8a
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg", group-title="Pelis 2023",Oppenheimer  BluRay 720pRip [8.2]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=d683ae9e1376dc38afc6a5d9c73164696dd0ccd8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n3oV6065tgYpukAjLxSbWcfqdg9.jpg", group-title="Pelis 2023",Todas somos Jane  BluRay 720pRip [6.6]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=3a444635e95df9c3d07f45deba33abcfbcc5e38a
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg", group-title="Pelis 2023",Umma  BluRay 720pRip [5.4]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=e254a7597cc2a9ddf0a6d5d53ebb0cf8fc90f9fe
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q04g3un61aeBoheQEso7enM28AF.jpg", group-title="Pelis 2023",Esto va a doler  BluRay 720pRip [6.1]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=7f916eb0ca5d2046e16078c87c1c50dd816e4a98
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lwW55nvF6BPVVeHDqbWHJXKCDZK.jpg", group-title="Pelis 2023",Allelujah  BluRay 720pRip [5.9]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=26022685d038c612e245106af5111fc18dc76250
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3akN1ey6teitHO58q7i011i5mLJ.jpg", group-title="Pelis 2022",Aisha  BluRay 720p [7.3*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=921c3fd3cb33329d38b15d288ecfc837cf92a6b7
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg", group-title="Pelis 2023",La ira de Becky  BluRay 720p [6.7*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=01e4a827fed2c57441eaa1ada0a53785e12016c9
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Af6SQL9PMz2scTivtC9WT41oI4o.jpg", group-title="Pelis 2023",El templo  BluRay 720p [6.1*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=aa87d7050bebe23c884308eb3feb4ff30de86d61
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aHFq9NMhavOL0jtQvmHQ1c5e0ya.jpg", group-title="Pelis 2023",Fuga de prision  BluRay 720pRip [5.1]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=b0a225a29c8c1911a2eb50cdda8a20c5090b1f5d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lYuZ8yvVuUJsISKY75yt6FIzJFb.jpg", group-title="Pelis 2023",El hombre ciego que no queria ver titanic  BluRay 720pRip [7.2]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=83ddf99cc2e83cd7d1aa8b7680d5a9c408a1c610
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zKxK1rZ0y3k6SQfRotq0jLMzz2Q.jpg", group-title="Pelis 2023",Cursed FriendsMalditos amigos)  BluRay 720pRip [4.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=e793e212e9a308e1a1f509783fa6d48326787e91
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dk7gsGAqsQVfYsD6kaznXWgypgb.jpg", group-title="Pelis 2023",La quietud en la tormenta  BluRay 720pRip []
-http://192.168.5.50:6870/ace/manifest.m3u8?id=7fca1565a6d5441658749261f7d9988c13028d96
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hAifrmtS7GWF1vJC6HhgoFDb8Va.jpg", group-title="Pelis 2023",Cronica de una tormenta  BluRay 720pRip [4.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=22fe161444f86abc48997a68609d111138866c40
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3oal7Yw2ZiwBOYLbIjh3M8ZNS85.jpg", group-title="Pelis 2023",Baby Assassins 2 Babies  BluRay 720pRip [6.9]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=69d24a15f41fde6ef75c9b80d3bce6a23e3d3190
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zMNSvbjxikKJBuufaMTHruI6jh2.jpg", group-title="Pelis 2023",Vacaciones de verano  BluRay 720pRip [5.4]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=cde6c44f45011ebb3fb4240de315066d0fe8ddc1
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uEHsMy4GjgVaUMQ74H9ofQpYobT.jpg", group-title="Pelis 2023",La batalla del dragon  BluRay 720pRip [6.7]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=d94c7362836e36ba4ccc362806c5b7d436bd52d5
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3IY1n6UQnjNImEToEDTW924EUAo.jpg", group-title="Pelis 2023",Las Maggie Moore  BluRay 720pRip [5.6]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=86686594472be36c0072d15cc30cc0d7d75ee6e8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eh1IjDZfDRjgv5NzMBkjN1GzKgy.jpg", group-title="Pelis 2023",Nyad  BluRay 720pRip [9.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=a3fe783ac69bf50f6961523c3b59e034e89a074e
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8w7kbE95X6Qu0dWA1ZULifcbKcQ.jpg", group-title="Pelis 2023",Quiz Lady  BluRay 720pRip [7.4]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=8432fe089919d565968aa13ae6bc783a531725ef
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pnqJLYhdZ6NHPe4I3EwicS52GG0.jpg", group-title="Pelis 2023",Alerta maximaDecibel)  BluRay 720pRip [6.8]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=b311da66047c8df04a9a71fe65d1a31a1dded7b4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4gZBTU8atWdtF5vC3WDlXx8qQ67.jpg", group-title="Pelis 2023",El origen del mal  BluRay 720pRip [6.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=6ef7d5106c51ed74ad3f173628b58bc413cb680a
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg", group-title="Pelis 2023",Shooting Stars  BluRay 720pRip [8.1]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=8561dbf1a3c828d5eaa44d457b50257c513ac338
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3nx8pSvAARYOLlZ2MNBlH7vW9jv.jpg", group-title="Pelis 2023",Nuovo Olimpo  BluRay 720pRip [7.1]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=8e1a6f5d063edfd535d2678c7ebabd2f396c702c
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/miPSRVOdCcc59DcLoTQoKdKpvTK.jpg", group-title="Pelis 2023",Ladronas  BluRay 720pRip [5.9]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=d0a1f9f5128f640326e3860c0d7572f00d1feac8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/blQaj6biyBMLo34cuFKKwbgjIBz.jpg", group-title="Pelis 2023",Encierro  BluRay 720pRip [6.6]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=01012465250e34c0197bed7297eb4b065b8e825d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDskIhzLfZc8SB4ybkcWOgmI98M.jpg", group-title="Pelis 2023",La posesion de Agnes  BluRay 720pRip [4.1]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=b7204f3f7b65951554b945f9b366a226fd9f29c3
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74UljzdgFuYo0BqzuEO2s2azObe.jpg", group-title="Pelis 2023",La superpelicula  BluRay 720p [7.0*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=31ef20e6fbe17c465f76c7966a94af4b55453094
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/if4ri8tSSLPoqCWW2XypnYRO0Dy.jpg", group-title="Pelis 2023",Fuga  BluRay 720p [.*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=bff9fc575db0d5f75a85d77854fb64ba63a01b66
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Xgjl22MkAZQUavvOeBqRehrvqO.jpg", group-title="Pelis 2023",Misterio en Venecia  BluRay 720pRip [6.8]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=f14ebcf50c4e7f7bccdd7b80b8d3c4e56e3cbfef
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/if4ri8tSSLPoqCWW2XypnYRO0Dy.jpg", group-title="Pelis 2023",Breakout   BluRay 720pRip [3.3]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=bff9fc575db0d5f75a85d77854fb64ba63a01b66
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kAU8CSAY5aCS91dSD5oky5TZcJU.jpg", group-title="Pelis 2023",Ruby, aventuras de una kraken adolescente  BluRay 720p [7.6*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=481e84599e05b1a9dbe4a001ac46e54a1634df33
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1AY8sq3hy9ezjY1t7GekJGZXbN8.jpg", group-title="Pelis 2023",El primer dia de mi vida   BluRay 720pRip [6.7]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=b05357b73a8f71a18c97e93594db7dc5d2d20f27
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg", group-title="Pelis 2023",Estas ahi Dios Soy yo Margaret   BluRay 720pRip [7.3]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=878a20c73f44d2d1ddd0268efe17d0b0b15389d8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg", group-title="Pelis 2023",Reposo absoluto  BluRay 720pRip [6.4]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=8f7e70a0b06a2670d984279dd63be72a7989d026
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/etvK8ni1adjXU8obDpdUxTTQT6n.jpg", group-title="Pelis 2023",Vesper  BluRay 720pRip [6.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=bb3b964bfe8439d6d7d030b343b0490ce78703c5
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg", group-title="Pelis 2023",El negocio del dolor  BluRay 720pRip [6.1]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=df4fcf3570affaf260dd0e96427a7427857f702e
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zfVdFJGGgHDM3RFZdTPhZqy1WEi.jpg", group-title="Pelis 2023",Hermana muerte  BluRay 720pRip [6.4]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=8bd3010b192c88b5fdcfc48d903f5106da41ef50
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBiQ91DoP6JutoU3R4mfvYXLuVv.jpg", group-title="Pelis 2023",The Barn Part II  BluRay 720pRip [4.4]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=c92fa63726e402bd0aa843b1a24dde619a6fcbfe
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNELmFbm2vHUVEXKsmXUiygAbb3.jpg", group-title="Pelis 2023",Sinceramente tuyo  BluRay 720pRip [6.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=ffab9f6569edcb147446952d4e38fa8f64cce456
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/boPkFKrDSUeRxc9ltZRsuVSdRkz.jpg", group-title="Pelis 2023",El lado dulce de la traicion   BluRay 720pRip [7.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=cd61159abc1d6e55bacd064bcb1bd99396a4246a
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vfYlCWuQgZOKpBx0X2d6PW0IP20.jpg", group-title="Pelis 2023",La doncellaSluzka)  BluRay 720pRip [8.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=6c73779298581d316a504b81bf04f193dcab4e56
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ooB4KSRRhp7XYRQUmsi82iFnMNC.jpg", group-title="Pelis 2023",The Blackening  BluRay 720p [6.2*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=5a0d56021fca59dcd89380798a074e560e4c84e8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jG9cPcTNKyCbgZpcIBpfrtnp9WX.jpg", group-title="Pelis 2023",Cementerio de Animales: El Origen  BluRay 720p [6.3*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=0a9217b87ec9aadee63d1a71f49e4498a09ef5be
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8zrzecN98cNYij4hIYmIH4n2cg1.jpg", group-title="Pelis 2021",C digo de la Ley  BluRay 720p [5.3*]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=30a51a58b15610c4be014d23caf8e4d0f2f73775
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hPLoprqDPXOZ8APWE47lS8bQu2w.jpg", group-title="Pelis 2023",La desconocida  BluRay 720pRip [2.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=e1611d3f0140d54d0f7e1687db2537dec93ab352
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rh9fwqA98ufdx9vP7V6lLhfpfk1.jpg", group-title="Pelis 2023",La otra Zoey  BluRay 720pRip [7.4]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=31c2713e11bb9b43f2957d3358945263cefee1ae
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oVHRkr7SaZNeSiVW0Sk6VNOKsgJ.jpg", group-title="Pelis 2023",Menina Casilda  BluRay 720pRip []
-http://192.168.5.50:6870/ace/manifest.m3u8?id=c496afc5eca6536e1ba0dfda22d2c525424ef89e
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDhhNWRlNTEtY2ZjNy00NGUzLWJjNDQtOGNlN2M0ODhlMmIyXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_FMjpg_UX1000_.jpg", group-title="Pelis 2023",NadaIntet)   BluRay 720pRip []
-http://192.168.5.50:6870/ace/manifest.m3u8?id=d2b7e10381b6cd3cabab6499ee6065d80023ccbf
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nGH4UVgexqBJDaNb2rUZyt9HPwD.jpg", group-title="Pelis 2023",Repostero y chef  BluRay 720pRip [6.7]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=062ea24a8ec509e3d7a821f9ae6616a73d03443a
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iVVvlosgMU6aePXavihV3L3V3D6.jpg", group-title="Pelis 2023",SurroundedAsediado)  BluRay 720pRip [5.3]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=df13c9f96ec0f670289defce6cbe922d4b1f8805
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ax1rpxHCcXVwwfn0zSte1udoJwV.jpg", group-title="Pelis 2023",Papas a la antigua  BluRay 720pRip [7.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=27b566c440fcff63366c6519bc6c1c699b127fc3
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zj7UYU6PZQtWh4sznRH1LKJp945.jpg", group-title="Pelis 2023",Mi soledad tiene alas  BluRay 720pRip [5.9]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=3abb3c309bb8c23af72d39474a3ef9fcff031e63
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9c4w9WQCx0UqWDRm8DO7p5WF2s.jpg", group-title="Pelis 2023",De perdidos a Rio  BluRay 720pRip [7.3]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=34747b32c746674019054ef71a6027acc676730b
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/we0QXSY6F3k4Egc9YMNhDsTh1SX.jpg", group-title="Pelis 2023",Crypto Boy  BluRay 720pRip [7.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=fde3cf1377ce0229bc8fe76caec7f6070a696d87
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Vz6qJXoekRMHiqXmsuO5VALnmg.jpg", group-title="Pelis 2023",Por casualidad  BluRay 720pRip [5.8]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=7e02269867520a8e636a84fcbf88ebbf748ea452
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8QVbWBv94BAT9u1q9uJccwOxMzt.jpg", group-title="Pelis 2023",Diabolik Ginko al ataque  BluRay 720pRip [6.1]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=1351a3065f38987f05ef713ba72404a51a3f02df
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zz6h2hfQ692jeeEkzfgFceyd50Y.jpg", group-title="Pelis 2023",La maison  BluRay 720pRip [6.1]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=2545bb087325829dc47bc8f1d512c46c410e4c00
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ewF3IlGscc7FjgGEPcQvZsAsgAW.jpg", group-title="Pelis 2023",Winnie the Pooh Miel y sangre   BluRay 720pRip [5.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=225d5f9c7f63745f818a02bf0f462a35a73f1d8d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dI69QCMMWbQOpMcuj6nKYvmJ3dG.jpg", group-title="Pelis 2023",La fotografa de Monte Verita  BluRay 720pRip [5.1]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=05ac0e87208fea791ff5937cf2a9724a3b249ca8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/NwORQmefgrKPfo5eQ3gp8sVAWD.jpg", group-title="Pelis 2023",Virtual Fighter  BluRay 720pRip [5.7]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=da35033bdaf5c493a1e091194cffd922320a7fd2
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dJg6qxhMNFAdDbukVReMpLE4Dhi.jpg", group-title="Pelis 2023",Cosecha Oscura  BluRay 720pRip [6.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=ec01f2b4174a02f964985585c715f1cd7af5060f
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nV6kTHNwU7M9CgzFNQrycXKTbix.jpg", group-title="Pelis 2023",Halloween desaparecida  BluRay 720pRip [4.0]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=5062bac010d140f863eb3682087d18092be3fd2e
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lzv44eDoY0R3Rzmv6zmJW6GRQzD.jpg", group-title="Pelis 2023",Una pequena mentira  BluRay 720pRip [5.6]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=2e53ef5e8399d81f2a4a7d8a594461a4ead456b9
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e39d4zXeF49Y0uq3IyTC6paBcCA.jpg", group-title="Pelis 2023",La pasion de Kierkegaard  BluRay 720pRip []
-http://192.168.5.50:6870/ace/manifest.m3u8?id=a93fb7d16d7f6b39f620edb613cf6be7ea110bd2
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bmG6qS9YXdGTN2d2Qj6oIDCF4sS.jpg", group-title="Pelis 2023",The Burial  BluRay 720pRip [8.3]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=f3a11b165c2a1921440a33aa34b4ab1987ed2578
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2DvJCwxKV36FeSgEUVBKpxW4Ak6.jpg", group-title="Pelis 2023",Una vida no tan simple  BluRay 720pRip [6.7]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=e3e6eca007d6a3dd867e586f77ca00553b5ddaa2
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mC66fsuzlYHSoZwb6y6emSCaRv5.jpg", group-title="Pelis 2023",The Commando  BluRay 720pRip [5.6]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=dc9e81836102b1606eaf7b60bf4782b18c587da7
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hPk01ALAAuQoXC8XL2dSqqbsQ4d.jpg", group-title="Pelis 2023",Plan A  BluRay 720pRip [6.3]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=b1530a28384c38d9e8e230c824dd77cfaa95c4bd
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zipG2q9J37OkKUgXoB2fUZcKhb4.jpg", group-title="Pelis 2023",Awareness  BluRay 720pRip [6.7]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=ec78bc5bea8badfd71d6028d80d707388ccb7983
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xIWB59jB040hEa5cY1KP3tLia7k.jpg", group-title="Pelis 2023",Upon entry  BluRay 720pRip [7.5]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=bf11a852527c5a3bfd87516dac1806dcdbc58a08
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/NNxYkU70HPurnNCSiCjYAmacwm.jpg", group-title="Pelis 2023",Mision imposible Sentencia mortal parte 1  BluRay 720pRip [7.7]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=8aaf5b16bb4ef3675dc4258e2598282a74914d51
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/44pxAoAXhC8DTfcNzwDSDJ1D0ue.jpg", group-title="Pelis 2023",El colibri  BluRay 720pRip [7.1]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=9cfda549715103d388b90fbf8ffd2479a04ccd54
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fTP28OF0SlRRyng0QX3ekzCPFgW.jpg", group-title="Pelis 2023",I Love My Dad   BluRay 720pRip [5.8]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=63a94b75946def9cc2a62f72c74c5bac793df88d
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xIRF6tXBhOGfbhNreRW7vtV1Wxk.jpg", group-title="Pelis 2023",Gemelos pero no tanto  BluRay 720pRip []
-http://192.168.5.50:6870/ace/manifest.m3u8?id=66e9b5bff411f817572236a52a822bbf42177b35
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2AXA0txJlFdBpRwSq1YFGPdGinM.jpg", group-title="Pelis 2023",Kepler Sexto B  BluRay 720pRip [7.8]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=d6d768d18fc9230f6e4b52aebc88dc2bd042929c
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rr7lUIQ6tysyvJx14d4pG0GNrWT.jpg", group-title="Pelis 2023",La Corriente  BluRay 720pRip []
-http://192.168.5.50:6870/ace/manifest.m3u8?id=19bfd68bded30946c2d34af744bebcc2268010f8
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg", group-title="Pelis 2023",Sangrientos dieciseis   BluRay 720pRip [6.3]
-http://192.168.5.50:6870/ace/manifest.m3u8?id=81e64c6b7b1196823efff43eee9668f407efd5e1
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hw1c0kXpDDDen26Tp3shAqCIQv3.jpg", group-title="Pelis 2023",Bailarina   BluRay 720pRip [7.8]
 http://192.168.5.50:6870/ace/manifest.m3u8?id=95648fa0f0d3934d03d929f6e0ba8b0e08796da8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5gVRCyUKEXuN6jmoUqS11HwzZ9r.jpg", group-title="Pelis 2023",El sabor de las cosas simple umami  BluRay 720pRip [5.4]
