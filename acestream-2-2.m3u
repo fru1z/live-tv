@@ -255,6 +255,14 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=e258e75e0e802afa5fcc53d46b47d8801a
 http://192.168.5.50:6875/ace/manifest.m3u8?id=7f1c44c9f362eba2d4a6820a00ff6701ead9e79d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros M" tvg-id="Movistar Plus+ HD", M.Plus 1080 Elcano Antiguas
 http://192.168.5.50:6875/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros M" tvg-id="Movistar Plus+ HD", M.Plus now
+http://192.168.5.50:6875/ace/manifest.m3u8?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros M" tvg-id="Movistar Plus+ HD", M.Plus now
+http://192.168.5.50:6875/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros M" tvg-id="Movistar Plus+ HD", M.Plus now
+http://185.233.16.53:80/play/fe44978/hQTnRE6YfK/558669.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros M" tvg-id="Movistar Plus+ HD", M.Plus now
+http://37.49.225.107:8080/14e17190/e84b5c0d6a/2146
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros M" tvg-id="Movistar Plus+ HD", MOVISTAR PLUS FHD
 http://192.168.5.50:6875/ace/manifest.m3u8?id=335646e7394ea4eda343c95e57852bb70fc4178f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="Otros M" tvg-id="M+ Golf 2 HD", MOVISTAR GOLF 2 FHD
