@@ -1,10 +1,39 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HDR.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HDR", LIGA DE CAMPEONES 4K --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=152169ce99e1fd27f2249c18384a121079cdef29
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HDR.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HDR", LIGA DE CAMPEONES 4K --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", LIGA DE CAMPEONES FHD --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", LIGA DE CAMPEONES FHD --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", LIGA DE CAMPEONES FHD --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", LIGA DE CAMPEONES FHD --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", LIGA DE CAMPEONES FHD --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=a9025d4e168764248d33129c30940502cea0e1c2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", LIGA DE CAMPEONES FHD --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=47223e64a576c21bd61e818a42397a753d34fba5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", LIGA DE CAMPEONES --> NEW LOOP
+http://192.168.5.50:6870/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 
-#EXTINF:-1 tvg-logo="" group-title="RFEF" tvg-id="Canal 1", Canal 1
-http://192.168.5.50:6870/ace/manifest.m3u8?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 tvg-logo="" group-title="RFEF" tvg-id="Canal 2", Canal 2
-http://192.168.5.50:6870/ace/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", LIGA DE CAMPEONES 2 FHD --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", LIGA DE CAMPEONES 2 FHD --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", LIGA DE CAMPEONES 2 FHD --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", LIGA DE CAMPEONES 2 FHD --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", LIGA DE CAMPEONES 3 FHD --> NEW ERA
+http://192.168.5.50:6870/ace/manifest.m3u8?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" group-title="Liga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
 http://192.168.5.50:6870/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png" group-title="Liga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
@@ -757,12 +786,9 @@ http://192.168.5.50:6870/ace/manifest.m3u8?id=e720d8fef514c63468bdae65d7c20d48e2
 http://192.168.5.50:6870/ace/manifest.m3u8?id=f2dc625a32ba3437100b1261fd0751d83d64ce91
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="Otros" tvg-id=""STAR Channel HD", FOX FHD II
 http://192.168.5.50:6870/ace/manifest.m3u8?id=7a9b22bee11d26b3f5bbd52e0230e19706f593eb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="RFEF" tvg-id=""Canal Hollywood HD", HOLLYWOOD FHD II
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="Otros" tvg-id=""Canal Hollywood HD", HOLLYWOOD FHD II
 http://192.168.5.50:6870/ace/manifest.m3u8?id=ebc2e767633cf272abf749a8884751f1f177c8b3
-#EXTINF:-1 tvg-logo="" group-title="RFEF" tvg-id=""", NBA NETWORK
-http://192.168.5.50:6870/ace/manifest.m3u8?id=6ad33feec75d929de54d77b9becfe767ae83fcb3
-#EXTINF:-1 tvg-logo="" group-title="RFEF" tvg-id=""", NBA TV
-http://192.168.5.50:6870/ace/manifest.m3u8?id=c8aac540621d481965791c4442a7e868bcca10ca
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Arena.png" group-title="Otros" tvg-id=""UK | Sky Sport Arena", SKY SPORTS ARENA --> NEW LOOP
 http://192.168.5.50:6870/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Cricket.png" group-title="Otros" tvg-id=""UK | Sky Sport Cricket", SKY SPORTS CRICKET --> NEW LOOP
@@ -777,5 +803,4 @@ http://192.168.5.50:6870/ace/manifest.m3u8?id=a8545f5f1a366971f6591d3281a730dc14
 http://192.168.5.50:6870/ace/manifest.m3u8?id=22f130a47546d2ddd3d657bd1ea9f7305f6463a4
 #EXTINF:-1 tvg-logo="" group-title="Otros" tvg-id=""", UFC Fight Pass
 http://192.168.5.50:6870/ace/manifest.m3u8?id=f74dcf44f57fc71cb4b0719b3342e569eba50c51
-#EXTINF:-1 tvg-logo="" group-title="RFEF" tvg-id=""Canal 2", Canal 2
-http://192.168.5.50:6870/ace/manifest.m3u8?id=8677d339ecddd75165c0015025f598b6215974cf
+
