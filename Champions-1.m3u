@@ -1,57 +1,57 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Movistar Plus+ HD", Movistar+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+http://192.168.5.50:6870/ace/manifest.m3u8?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Movistar Plus+ HD", Movistar+ 2
-http://192.168.5.50:6875/ace/manifest.m3u8?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
+http://192.168.5.50:6870/ace/manifest.m3u8?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Movistar Plus+ HD", Movistar+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
+http://192.168.5.50:6870/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Movistar Plus+ HD", Movistar+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=335646e7394ea4eda343c95e57852bb70fc4178f
+http://192.168.5.50:6870/ace/manifest.m3u8?id=335646e7394ea4eda343c95e57852bb70fc4178f
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+http://192.168.5.50:6870/ace/manifest.m3u8?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+http://192.168.5.50:6870/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
+http://192.168.5.50:6870/ace/manifest.m3u8?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+http://192.168.5.50:6870/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+http://192.168.5.50:6870/ace/manifest.m3u8?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=47223e64a576c21bd61e818a42397a753d34fba5
+http://192.168.5.50:6870/ace/manifest.m3u8?id=47223e64a576c21bd61e818a42397a753d34fba5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="M Deportes" tvg-id="M+ Deportes 3", M. Deportes 3  FAIL
-http://192.168.5.50:6875/ace/manifest.m3u8?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
+http://192.168.5.50:6870/ace/manifest.m3u8?id=571bff4d12b1791eb99dbf20bec38e630693a6a3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+ 1080p
-http://192.168.5.50:6875/ace/manifest.m3u8?id=775abd8697715c48a357906d40734ccd2a10513c
+http://192.168.5.50:6870/ace/manifest.m3u8?id=775abd8697715c48a357906d40734ccd2a10513c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+ 1080p
-http://192.168.5.50:6875/ace/manifest.m3u8?id=0a26e20f39845e928411e09a124374fccb6e1478
+http://192.168.5.50:6870/ace/manifest.m3u8?id=0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+ 720p
-http://192.168.5.50:6875/ace/manifest.m3u8?id=8edb264520569b2280c5e86b2dc734e120032903
+http://192.168.5.50:6870/ace/manifest.m3u8?id=8edb264520569b2280c5e86b2dc734e120032903
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones 2 por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+http://192.168.5.50:6870/ace/manifest.m3u8?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones 2 por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=abdf9058786a48623d0de51a3adb414ae10b6e72
+http://192.168.5.50:6870/ace/manifest.m3u8?id=abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones 2 por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f
+http://192.168.5.50:6870/ace/manifest.m3u8?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", Liga de Campeones 2 por M+ 1080p
-http://192.168.5.50:6875/ace/manifest.m3u8?id=c070cdb701fc46bb79d17568d99fc64620443d63
+http://192.168.5.50:6870/ace/manifest.m3u8?id=c070cdb701fc46bb79d17568d99fc64620443d63
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones 3 por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+http://192.168.5.50:6870/ace/manifest.m3u8?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones 3 por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=4fc2fce0d019bdb622164bba3cff84c120fb9243
+http://192.168.5.50:6870/ace/manifest.m3u8?id=4fc2fce0d019bdb622164bba3cff84c120fb9243
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones 3 por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=15127320406cf6a072c4f485f31c841d7d3e62f3
+http://192.168.5.50:6870/ace/manifest.m3u8?id=15127320406cf6a072c4f485f31c841d7d3e62f3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pJ5dZBG/camp03.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", Liga de Campeones 3 por M+ 1080p
-http://192.168.5.50:6875/ace/manifest.m3u8?id=3618edda333dad5374ac2c801f5f14483934b97d
+http://192.168.5.50:6870/ace/manifest.m3u8?id=3618edda333dad5374ac2c801f5f14483934b97d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pJ5dZBG/camp03.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", Liga de Campeones 3 por M+ 720p
-http://192.168.5.50:6875/ace/manifest.m3u8?id=0b348cc1ae499e810729661878764a0fab88ab69
+http://192.168.5.50:6870/ace/manifest.m3u8?id=0b348cc1ae499e810729661878764a0fab88ab69
 
 
 
@@ -60,83 +60,83 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=0b348cc1ae499e810729661878764a0fab
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
+http://192.168.5.50:6870/ace/manifest.m3u8?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=a9025d4e168764248d33129c30940502cea0e1c2
+http://192.168.5.50:6870/ace/manifest.m3u8?id=a9025d4e168764248d33129c30940502cea0e1c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+ FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=f43a021e8fd63334a4bf3fb11ffe58f89039a1d0
+http://192.168.5.50:6870/ace/manifest.m3u8?id=f43a021e8fd63334a4bf3fb11ffe58f89039a1d0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+ FHD (SAT)
-http://192.168.5.50:6875/ace/manifest.m3u8?id=840f68a0dc6e27c2927a16b4d42b9401ac50270b
+http://192.168.5.50:6870/ace/manifest.m3u8?id=840f68a0dc6e27c2927a16b4d42b9401ac50270b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+ FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
+http://192.168.5.50:6870/ace/manifest.m3u8?id=fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+ FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=05057e832dd1530c7d5e8b0857fee6826243a243
+http://192.168.5.50:6870/ace/manifest.m3u8?id=05057e832dd1530c7d5e8b0857fee6826243a243
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+ 1080p
-http://192.168.5.50:6875/ace/manifest.m3u8?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
+http://192.168.5.50:6870/ace/manifest.m3u8?id=ee5ffa2c47cad5f00276904722e9d234def6f14a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones por M+ 720p
-http://192.168.5.50:6875/ace/manifest.m3u8?id=6ce0d1c949366e242715ed9be225444231b9e7c9
+http://192.168.5.50:6870/ace/manifest.m3u8?id=6ce0d1c949366e242715ed9be225444231b9e7c9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1 FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
+http://192.168.5.50:6870/ace/manifest.m3u8?id=7fd55d3cfc6b8b9c3195b1c852c0a04145756247
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1 FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
+http://192.168.5.50:6870/ace/manifest.m3u8?id=10ae32928d1320eb98d4656cd1faa16ad3648e82
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1 FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=b67ac651bcb2e93fda9dba2a122e083f20394067
+http://192.168.5.50:6870/ace/manifest.m3u8?id=b67ac651bcb2e93fda9dba2a122e083f20394067
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1 FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=720c2a7afc922d575d658d98285645683dc9d346
+http://192.168.5.50:6870/ace/manifest.m3u8?id=720c2a7afc922d575d658d98285645683dc9d346
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1
-http://192.168.5.50:6875/ace/manifest.m3u8?id=9796f85036cb987fa21ef70e4b5e608e06f0c29d
+http://192.168.5.50:6870/ace/manifest.m3u8?id=9796f85036cb987fa21ef70e4b5e608e06f0c29d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1
-http://192.168.5.50:6875/ace/manifest.m3u8?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
+http://192.168.5.50:6870/ace/manifest.m3u8?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones 2 por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
+http://192.168.5.50:6870/ace/manifest.m3u8?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones 2 por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565
+http://192.168.5.50:6870/ace/manifest.m3u8?id=4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", Liga de Campeones 2 por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932
+http://192.168.5.50:6870/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932
 #EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2
-http://192.168.5.50:6875/ace/manifest.m3u8?id=e3f891c3dd120b4b1dab40e5c932ac65873a0465
+http://192.168.5.50:6870/ace/manifest.m3u8?id=e3f891c3dd120b4b1dab40e5c932ac65873a0465
 #EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2
-http://192.168.5.50:6875/ace/manifest.m3u8?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
+http://192.168.5.50:6870/ace/manifest.m3u8?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2 FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=deb8972491e3817ba2335662d7855d2c2c05a900
+http://192.168.5.50:6870/ace/manifest.m3u8?id=deb8972491e3817ba2335662d7855d2c2c05a900
 #EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2 FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb
+http://192.168.5.50:6870/ace/manifest.m3u8?id=bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2 FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=0adc3b525508b4a74ce65685870894a77401afb7
+http://192.168.5.50:6870/ace/manifest.m3u8?id=0adc3b525508b4a74ce65685870894a77401afb7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2 FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=f7fa79fdad436e969a82389a062a74564e91b10e
+http://192.168.5.50:6870/ace/manifest.m3u8?id=f7fa79fdad436e969a82389a062a74564e91b10e
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pJ5dZBG/camp03.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", M.L. Campeones 3
-http://192.168.5.50:6875/ace/manifest.m3u8?id=e42984ac6529407462f92201af95c01db8988368
+http://192.168.5.50:6870/ace/manifest.m3u8?id=e42984ac6529407462f92201af95c01db8988368
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pJ5dZBG/camp03.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", Liga de Campeones 3 por M+ FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=8e65f92af1de567f0af83562c5a14a3db6dc8ac8
+http://192.168.5.50:6870/ace/manifest.m3u8?id=8e65f92af1de567f0af83562c5a14a3db6dc8ac8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pJ5dZBG/camp03.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", Liga de Campeones 3 por M+ FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=4d754e0b6b583d01668de8544c43cad6a1b253da
+http://192.168.5.50:6870/ace/manifest.m3u8?id=4d754e0b6b583d01668de8544c43cad6a1b253da
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pJ5dZBG/camp03.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", Liga de Campeones 3 por M+ FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=509e91774b5b2d0af80883c8d4217c3b53235231
+http://192.168.5.50:6870/ace/manifest.m3u8?id=509e91774b5b2d0af80883c8d4217c3b53235231
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GtKncC/camp04.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 4", Liga de Campeones 4 por M+ 1080p
-http://192.168.5.50:6875/ace/manifest.m3u8?id=65a18a6bd83918a9586b673fec12405aaf4e9f7d
+http://192.168.5.50:6870/ace/manifest.m3u8?id=65a18a6bd83918a9586b673fec12405aaf4e9f7d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GtKncC/camp04.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 4", M.L. Campeones 4
-http://192.168.5.50:6875/ace/manifest.m3u8?id=01152274037c5f7155489e0a977cbde71a61290c
+http://192.168.5.50:6870/ace/manifest.m3u8?id=01152274037c5f7155489e0a977cbde71a61290c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GtKncC/camp04.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 4", M.L. Campeones 4 FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
+http://192.168.5.50:6870/ace/manifest.m3u8?id=5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GtKncC/camp04.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 4", M.L. Campeones 4 FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=7a5512d101742eb418dd0e3ffbd2bf6c43c73452
+http://192.168.5.50:6870/ace/manifest.m3u8?id=7a5512d101742eb418dd0e3ffbd2bf6c43c73452
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2m99sr/camp05.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 5", Liga de Campeones 5 por M+ 1080p
-http://192.168.5.50:6875/ace/manifest.m3u8?id=11744c25a594e17d587ed0871fe40ff21b4bd1e0
+http://192.168.5.50:6870/ace/manifest.m3u8?id=11744c25a594e17d587ed0871fe40ff21b4bd1e0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2m99sr/camp05.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 5", Liga de Campeones 5 por M+ 720p
-http://192.168.5.50:6875/ace/manifest.m3u8?id=3958d0be5ec79d4ca2b6421eca9767e5100495ce
+http://192.168.5.50:6870/ace/manifest.m3u8?id=3958d0be5ec79d4ca2b6421eca9767e5100495ce
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2m99sr/camp05.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 5", M.L. Campeones 5
-http://192.168.5.50:6875/ace/manifest.m3u8?id=cc910aee690f70190b04920d61e39da5a6d0a057
+http://192.168.5.50:6870/ace/manifest.m3u8?id=cc910aee690f70190b04920d61e39da5a6d0a057
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2m99sr/camp05.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 5", Liga de Campeones 5 por M+  FAIL
-http://192.168.5.50:6875/ace/manifest.m3u8?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+http://192.168.5.50:6870/ace/manifest.m3u8?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="M campeones" tvg-id="M+ Liga de Campeones 6", M+ LIGA DE CAMPEONES 6 FHD
 acestream://c1de133576bc8b82db0891d850f5e2d448dac9d6
