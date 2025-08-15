@@ -11,8 +11,8 @@ while IFS= read -r linea; do
   echo "$linea" >> "$archivo_salida"
 done < "$archivo"
 
-sed -i -E 's/ *tvg-id="[^"]*"//g' $archivo
-sed -i -E 's/  / /g' $archivo
-sed -i -E 's/\"tvg-id=/tvg-id=\"/g' $archivo
+# sed -i -E 's/ *tvg-id="[^"]*"//g' $archivo
+# sed -i -E 's/  / /g' $archivo
+# sed -i -E 's/\"tvg-id=/tvg-id=\"/g' $archivo
 
 
