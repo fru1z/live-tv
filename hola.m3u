@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="TDT", Teledeporte
+http://192.168.5.50:6870/ace/manifest.m3u8?id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" tvg-id="Canal Hollywood HD" group-title="Futbol Internacional", Canal Hollywood HD
+http://192.168.5.50:6870/ace/manifest.m3u8?id=ebc2e767633cf272abf749a8884751f1f177c8b3
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="Futbol Internacional", UK | Sky Sport Arena
+http://192.168.5.50:6870/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" group-title="Futbol Internacional", UK | Sky Sport Cricket
+http://192.168.5.50:6870/ace/manifest.m3u8?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
