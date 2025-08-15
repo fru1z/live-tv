@@ -1,4 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 1", Tennis Channel 1
+http://192.168.5.50:6870/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 2", Tennis Channel 2
+http://192.168.5.50:6870/ace/manifest.m3u8?id=52a526d748e26ff0827635b3932d9f49aee14a25
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 2", Tennis Channel 2
+http://192.168.5.50:6870/ace/manifest.m3u8?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" group-title="Tenis" tvg-id="DE | Sky Sport Tennis", DE | Sky Sport Tennis
+http://192.168.5.50:6870/ace/manifest.m3u8?id=fc9f1f580da8f641a5991d44b399982a3a069f69
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="España" tvg-id="M+ LaLiga TV HD", M+ LaLiga TV HD
 http://192.168.5.50:6870/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
@@ -12,8 +20,6 @@ http://192.168.5.50:6870/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b34196
 http://192.168.5.50:6870/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="España" tvg-id="DAZN F1 HD", DAZN F1 HD
 http://192.168.5.50:6870/ace/manifest.m3u8?id=d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8bSvSX3/golf.png" group-title="España" tvg-id="M+ Golf HD", M+ Golf HD
-http://192.168.5.50:6870/ace/manifest.m3u8?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="España" tvg-id="DAZN 1 HD", DAZN 1 HD
 http://192.168.5.50:6870/ace/manifest.m3u8?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="España" tvg-id="DAZN 2 HD", DAZN 2 HD
@@ -606,18 +612,3 @@ http://192.168.5.50:6870/ace/manifest.m3u8?id=ebc2e767633cf272abf749a8884751f1f1
 http://192.168.5.50:6870/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" group-title="Otros" tvg-id="UK | Sky Sport Cricket", UK | Sky Sport Cricket
 http://192.168.5.50:6870/ace/manifest.m3u8?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 1", Tennis Channel 1
-http://192.168.5.50:6870/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 2", Tennis Channel 2
-http://192.168.5.50:6870/ace/manifest.m3u8?id=52a526d748e26ff0827635b3932d9f49aee14a25
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 2", Tennis Channel 2
-http://192.168.5.50:6870/ace/manifest.m3u8?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 3", Tennis Channel 3
-http://192.168.5.50:6870/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 44", Tennis Channel 44
-http://192.168.5.50:6870/ace/manifest.m3u8?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" group-title="Otros" tvg-id="DE | Sky Sport Tennis", DE | Sky Sport Tennis
-http://192.168.5.50:6870/ace/manifest.m3u8?id=fc9f1f580da8f641a5991d44b399982a3a069f69
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 55", Tennis Channel 55
-http://192.168.5.50:6870/ace/manifest.m3u8?id=111d650225e7b7fb8f0f1e968c6aa7f8b86684bd
