@@ -600,9 +600,19 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=5c02eda19460d039aee54b6cdfd89ec5b0
 http://192.168.5.50:6875/ace/manifest.m3u8?id=6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" group-title="TDT" tvg-id="Teledeporte", Teledeporte
 http://192.168.5.50:6875/ace/manifest.m3u8?id=138b30c93e8a780ac490a4f6d2181c41f3670230
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="Futbol Internacional" tvg-id="Canal Hollywood HD", Canal Hollywood HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="TDT" tvg-id="Canal Hollywood HD", Canal Hollywood HD
 http://192.168.5.50:6875/ace/manifest.m3u8?id=ebc2e767633cf272abf749a8884751f1f177c8b3
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" group-title="Futbol Internacional" tvg-id="UK | Sky Sport Arena", UK | Sky Sport Arena
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" group-title="Otros" tvg-id="UK | Sky Sport Arena", UK | Sky Sport Arena
 http://192.168.5.50:6875/ace/manifest.m3u8?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" group-title="Futbol Internacional" tvg-id="UK | Sky Sport Cricket", UK | Sky Sport Cricket
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" group-title="Otros" tvg-id="UK | Sky Sport Cricket", UK | Sky Sport Cricket
 http://192.168.5.50:6875/ace/manifest.m3u8?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 1", Tennis Channel 1"
+http://192.168.5.50:6875/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 2", Tennis Channel 2"
+http://192.168.5.50:6875/ace/manifest.m3u8?id=52a526d748e26ff0827635b3932d9f49aee14a25
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 33", Tennis Channel 33"
+http://192.168.5.50:6875/ace/manifest.m3u8?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 44", Tennis Channel 44"
+http://192.168.5.50:6875/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Tenis" tvg-id="Tennis Channel 55", Tennis Channel 55"
+http://192.168.5.50:6875/ace/manifest.m3u8?id=62b6cdc347e9b5f5aff089055365805e4d20d41e
