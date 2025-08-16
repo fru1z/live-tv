@@ -116,11 +116,11 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=57313e1ef438538df4feb5a6028dc78ee4
 http://192.168.5.50:6875/ace/manifest.m3u8?id=9b84af74b2fa3690c519199326fc2f181b025cdd
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros M FAIL" tvg-id="Movistar Plus+", Movistar Plus+ F
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros M F" tvg-id="Movistar Plus+", Movistar Plus+ F
 http://192.168.5.50:6875/ace/manifest.m3u8?id=335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros M FAIL" tvg-id="Movistar Plus+", Movistar Plus+ F
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros M F" tvg-id="Movistar Plus+", Movistar Plus+ F
 http://192.168.5.50:6875/ace/manifest.m3u8?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros M FAIL" tvg-id="Movistar Plus+", Movistar Plus+ F
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros M F" tvg-id="Movistar Plus+", Movistar Plus+ F
 http://192.168.5.50:6875/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
 
 
