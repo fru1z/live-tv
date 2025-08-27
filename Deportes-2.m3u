@@ -1,11 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Movistar + HD", Movistar+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Movistar + HD", Movistar+ 2
-http://192.168.5.50:6875/ace/manifest.m3u8?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", M+ Deportes
 http://192.168.5.50:6875/ace/manifest.m3u8?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", M+ Deportes
@@ -73,42 +67,6 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=2940120bf034db79a7f5849846ccea0255
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Vamos" tvg-id="M+ Vamos HD", Vamos
 http://192.168.5.50:6875/ace/manifest.m3u8?id=0e5d8c9724fa9163f49096b70484e315251eb785
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros", Sky Sports Tennis
-http://192.168.5.50:6875/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros", Tennis Channel
-http://192.168.5.50:6875/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros", Tennis Channel
-http://192.168.5.50:6875/ace/manifest.m3u8?id=52a526d748e26ff0827635b3932d9f49aee14a25
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros", Tennis Channel
-http://192.168.5.50:6875/ace/manifest.m3u8?id=16089ab3f31a2756cf2ba6d507ff367cce14df83
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros", Tennis Channel
-http://192.168.5.50:6875/ace/manifest.m3u8?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Eurosport 1", Eurosport 1 FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Eurosport 1", Eurosport 1 FHD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Eurosport 1", Eurosport 1
-http://192.168.5.50:6875/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Eurosport 1", Eurosport 1
-http://192.168.5.50:6875/ace/manifest.m3u8?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Eurosport 1", Eurosport 1 HD
-http://192.168.5.50:6875/ace/manifest.m3u8?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Eurosport 2", Eurosport 2
-http://192.168.5.50:6875/ace/manifest.m3u8?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Eurosport 2", Eurosport 2
-http://192.168.5.50:6875/ace/manifest.m3u8?id=4b87a5b67f39dfc151a163ec8c08039520f0a372
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Movistar Plus+ HD", Movistar+ F
-http://192.168.5.50:6875/ace/manifest.m3u8?id=335646e7394ea4eda343c95e57852bb70fc4178f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Movistar Plus+ HD", Movistar+ F
-http://192.168.5.50:6875/ace/manifest.m3u8?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dMXrBBc/plus.png" group-title="Otros" tvg-id="Movistar Plus+ HD", Movistar+ F
-http://192.168.5.50:6875/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", M+ Deportes  F
 http://192.168.5.50:6875/ace/manifest.m3u8?id=9099f519dd9b6b6f74f105477ff545829a110415
 
@@ -117,3 +75,46 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=639c561dd57fa3fc91fde715caeb696c5e
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="M Deportes" tvg-id="M+ Deportes 3", M+ Deportes 3  F
 http://192.168.5.50:6875/ace/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros" tvg-id="Movistar + HD", Movistar+
+http://192.168.5.50:6875/ace/manifest.m3u8?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros" tvg-id="Movistar + HD", Movistar+ 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
+
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" group-title="Otros", Sky Sports Tennis
+http://192.168.5.50:6875/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Otros", Tennis Channel
+http://192.168.5.50:6875/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Otros", Tennis Channel
+http://192.168.5.50:6875/ace/manifest.m3u8?id=52a526d748e26ff0827635b3932d9f49aee14a25
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Otros", Tennis Channel
+http://192.168.5.50:6875/ace/manifest.m3u8?id=16089ab3f31a2756cf2ba6d507ff367cce14df83
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Otros", Tennis Channel
+http://192.168.5.50:6875/ace/manifest.m3u8?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="Otros" tvg-id="Eurosport 1", Eurosport 1 FHD
+http://192.168.5.50:6875/ace/manifest.m3u8?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="Otros" tvg-id="Eurosport 1", Eurosport 1 FHD
+http://192.168.5.50:6875/ace/manifest.m3u8?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="Otros" tvg-id="Eurosport 1", Eurosport 1
+http://192.168.5.50:6875/ace/manifest.m3u8?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="Otros" tvg-id="Eurosport 1", Eurosport 1
+http://192.168.5.50:6875/ace/manifest.m3u8?id=1d04e3b27c2ac3ff52dc949e76f36207fbb235c4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="Otros" tvg-id="Eurosport 1", Eurosport 1 HD
+http://192.168.5.50:6875/ace/manifest.m3u8?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="Otros" tvg-id="Eurosport 2", Eurosport 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="Otros" tvg-id="Eurosport 2", Eurosport 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=4b87a5b67f39dfc151a163ec8c08039520f0a372
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros" tvg-id="Movistar Plus+ HD", Movistar+ F
+http://192.168.5.50:6875/ace/manifest.m3u8?id=335646e7394ea4eda343c95e57852bb70fc4178f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros" tvg-id="Movistar Plus+ HD", Movistar+ F
+http://192.168.5.50:6875/ace/manifest.m3u8?id=b2a4d1eba9b46df5f52a87105df779f9d39abeb4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros" tvg-id="Movistar Plus+ HD", Movistar+ F
+http://192.168.5.50:6875/ace/manifest.m3u8?id=56ac8e227d526e722624675ccdd91b0cc850582f
+
