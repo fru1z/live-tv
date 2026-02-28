@@ -16,15 +16,22 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=e19c1fc5e3ada56c60d45257f7f4ed0d14
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
 http://192.168.5.50:6875/ace/manifest.m3u8?id=af458073c3096293a4dea9f369d4f308e7125bd6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
-http://192.168.5.50:6875/ace/manifest.m3u8?id=5c26bf5f96ccae8937c664d924a53166d410ac5d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
-http://192.168.5.50:6875/ace/manifest.m3u8?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
+http://192.168.5.50:6875/ace/manifest.m3u8?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
 http://192.168.5.50:6875/ace/manifest.m3u8?id=f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
-http://192.168.5.50:6875/ace/manifest.m3u8?id=0febfb5cac3384f487d55c559bbfc877db2d0357
+http://192.168.5.50:6875/ace/manifest.m3u8?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
-http://192.168.5.50:6875/ace/manifest.m3u8?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+http://192.168.5.50:6875/ace/manifest.m3u8?id=4b528d10eaad747ddf52251206177573ee3e9f74
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga 720p
+http://192.168.5.50:6875/ace/manifest.m3u8?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga 720p
+http://192.168.5.50:6875/ace/manifest.m3u8?id=0febfb5cac3384f487d55c559bbfc877db2d0357
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga 720p
+http://192.168.5.50:6875/ace/manifest.m3u8?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga 720p
+http://192.168.5.50:6875/ace/manifest.m3u8?id=c9321006921967d6258df6945f1d598a5c0cbf1e
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 2", M+ LaLiga 2
@@ -72,4 +79,17 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=635b61c1f240449163260cd914d10d886a
 http://192.168.5.50:6875/ace/manifest.m3u8?id=a70a1605f69c8379e04094df96922a42adfbb431
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN LaLiga", DAZN LaLiga 2
 http://192.168.5.50:6875/ace/manifest.m3u8?id=b63fcadc2390455d8a328f6c16b8b0a9adec21a3
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="LaLiga Hypermotion", LaLiga TV Hypermotion
+http://192.168.5.50:6875/ace/manifest.m3u8?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="LaLiga Hypermotion", LaLiga TV Hypermotion
+http://192.168.5.50:6875/ace/manifest.m3u8?id=1f75d92098580443857caa95a719103cb83781b0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="LaLiga Hypermotion", LaLiga TV Hypermotion 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=a5b9d834ad92bfb80fe01bf89cc20bd68be199fb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="LaLiga Hypermotion", LaLiga TV Hypermotion 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=3a21e651c0bffe810cfc8537065cb81f5ed68a55
+
 
