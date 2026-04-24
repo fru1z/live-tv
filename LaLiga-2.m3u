@@ -11,7 +11,6 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=d23497596720b47b096ec0f850d6d26a19
 http://192.168.5.50:6875/ace/manifest.m3u8?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
 http://192.168.5.50:6875/ace/manifest.m3u8?id=af458073c3096293a4dea9f369d4f308e7125bd6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
@@ -23,17 +22,11 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=00c9bc9c5d7d87680a5a6bed349edfa775
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
 http://192.168.5.50:6875/ace/manifest.m3u8?id=4b528d10eaad747ddf52251206177573ee3e9f74
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
-http://192.168.5.50:6875/ace/manifest.m3u8?id=19f28f60c908f987b1a03da078e63320d7bf29e8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
-http://192.168.5.50:6875/ace/manifest.m3u8?id=0febfb5cac3384f487d55c559bbfc877db2d0357
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
 http://192.168.5.50:6875/ace/manifest.m3u8?id=c9321006921967d6258df6945f1d598a5c0cbf1e
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga 720p
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
+http://192.168.5.50:6875/ace/manifest.m3u8?id=b3bdd6ef7f795c4f321a3ce5cf4907338f462929
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga
 http://192.168.5.50:6875/ace/manifest.m3u8?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV", M+ LaLiga 720p
-http://192.168.5.50:6875/ace/manifest.m3u8?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 2", M+ LaLiga 2
 http://192.168.5.50:6875/ace/manifest.m3u8?id=b45cfe568e106a7df65c950805d6f123c989ce84
@@ -43,7 +36,6 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=2c01306506e268ba726f5c30222923b616
 http://192.168.5.50:6875/ace/manifest.m3u8?id=b8eb9c9868d487402569bba2d97a8af113d033fe
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 2", M+ LaLiga 2
 http://192.168.5.50:6875/ace/manifest.m3u8?id=911ad127726234b97658498a8b790fdd7516541d
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 3", M+ LaLiga 3
 http://192.168.5.50:6875/ace/manifest.m3u8?id=571ce113b9d600a145766443d7417eccab2e1846
@@ -55,18 +47,10 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=535394f62a810bc5aeb25be75ea5ff7d03
 http://192.168.5.50:6875/ace/manifest.m3u8?id=c896d37778f9e43549a788fc22206a655895b51b
 
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga", DAZN LaLiga
-http://192.168.5.50:6875/ace/manifest.m3u8?id=19f28f60c908f987b1a03da078e63320d7bf29e8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga", DAZN LaLiga
-http://192.168.5.50:6875/ace/manifest.m3u8?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
+http://192.168.5.50:6875/ace/manifest.m3u8?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga", DAZN LaLiga
 http://192.168.5.50:6875/ace/manifest.m3u8?id=71cb5e2567a8b39f5bdc4fa791992781b052f0bc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga", DAZN LaLiga
-http://192.168.5.50:6875/ace/manifest.m3u8?id=8a25653a2f774f4ae1062d38a30dcd714d304a3a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga", DAZN LaLiga
-http://192.168.5.50:6875/ace/manifest.m3u8?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga", DAZN LaLiga
 http://192.168.5.50:6875/ace/manifest.m3u8?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN LaLiga", DAZN LaLiga
