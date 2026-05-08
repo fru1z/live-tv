@@ -1,26 +1,29 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros" tvg-id="Movistar + HD", Movistar+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="M+" tvg-id="Movistar+", Movistar+
 http://192.168.5.50:6875/ace/manifest.m3u8?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="Otros" tvg-id="Movistar + HD", Movistar+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="M+" tvg-id="Movistar+", Movistar+
+http://192.168.5.50:6875/ace/manifest.m3u8?id=c1b7f54af0de256d1ac0fcac4c130e62660089f4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="M+" tvg-id="M+ Vamos", Vamos
+http://192.168.5.50:6875/ace/manifest.m3u8?id=0e5d8c9724fa9163f49096b70484e315251eb785
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="M+" tvg-id="M+ Vamos", Vamos
+http://192.168.5.50:6875/ace/manifest.m3u8?id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="M+" tvg-id="M+ Vamos", Vamos
+http://192.168.5.50:6875/ace/manifest.m3u8?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes HD", M+ Deportes
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes", M+ Deportes
 http://192.168.5.50:6875/ace/manifest.m3u8?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes HD", M+ Deportes
-http://192.168.5.50:6875/ace/manifest.m3u8?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes HD", M+ Deportes
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes", M+ Deportes
 http://192.168.5.50:6875/ace/manifest.m3u8?id=6e031aed136bf97d8667fcd5fc49c73256928281
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes HD", M+ Deportes
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes", M+ Deportes
 http://192.168.5.50:6875/ace/manifest.m3u8?id=c6a824a81b36f6c3529826477caf2ad94b45776d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes HD", M+ Deportes
-http://192.168.5.50:6875/ace/manifest.m3u8?id=edd06f11e1cef292a1d795e15207ef2f580e298c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes HD", M+ Deportes
-http://192.168.5.50:6875/ace/manifest.m3u8?id=6e212a916c83638268047dd2757c95b14f7d25a3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes HD", M+ Deportes
-http://192.168.5.50:6875/ace/manifest.m3u8?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes", M+ Deportes
+http://192.168.5.50:6875/ace/manifest.m3u8?id=af393f93814d03160d48d2730759593b7bea5b47
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes", M+ Deportes
+http://192.168.5.50:6875/ace/manifest.m3u8?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes", M+ Deportes
+http://192.168.5.50:6875/ace/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="M+ Deportes" tvg-id="M+ Deportes 2", M+ Deportes 2
 http://192.168.5.50:6875/ace/manifest.m3u8?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
@@ -29,58 +32,64 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="M+ Deportes" tvg-id="M+ Deportes 2", M+ Deportes 2
 http://192.168.5.50:6875/ace/manifest.m3u8?id=3774d8feab016ca766b35ea8488e7514ca30e0ee
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="M+ Deportes" tvg-id="M+ Deportes 2", M+ Deportes 2
-http://192.168.5.50:6875/ace/manifest.m3u8?id=890901fa742b19d8808cf49f19db2d3016437c56
+http://192.168.5.50:6875/ace/manifest.m3u8?id=6b15368775693c33c49fab02e7900c1976a5da90
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="M+ Deportes" tvg-id="M+ Deportes 2", M+ Deportes 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="M+ Deportes" tvg-id="M+ Deportes 2", M+ Deportes 2
 http://192.168.5.50:6875/ace/manifest.m3u8?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="M+ Deportes" tvg-id="M+ Deportes 2", M+ Deportes 2
 http://192.168.5.50:6875/ace/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="M+ Deportes" tvg-id="M+ Deportes 3", M+ Deportes 3
-http://192.168.5.50:6875/ace/manifest.m3u8?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="M+ Deportes" tvg-id="M+ Deportes 3", M+ Deportes 3
 http://192.168.5.50:6875/ace/manifest.m3u8?id=f4d9011721fad5098febbe4d7c078a582e176a01
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="M+ Deportes" tvg-id="M+ Deportes 3", M+ Deportes 3
 http://192.168.5.50:6875/ace/manifest.m3u8?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="M+ Deportes" tvg-id="M+ Deportes 3", M+ Deportes 3
+http://192.168.5.50:6875/ace/manifest.m3u8?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="M+ Deportes" tvg-id="M+ Deportes 3", M+ Deportes 3
+http://192.168.5.50:6875/ace/manifest.m3u8?id=799c6b5ee1cf41af077d14e3f9c45a32697eb903
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="M+ Deportes" tvg-id="M+ Deportes 4", M+ Deportes 4
 http://192.168.5.50:6875/ace/manifest.m3u8?id=58a4c880ab18486d914751db32a12760e74b75a4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="M+ Deportes" tvg-id="M+ Deportes 4", M+ Deportes 4 F
-http://192.168.5.50:6875/ace/manifest.m3u8?id=b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="M+ Deportes" tvg-id="M+ Deportes 4", M+ Deportes 4 F
-http://192.168.5.50:6875/ace/manifest.m3u8?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="M+ Deportes" tvg-id="M+ Deportes 4", M+ Deportes 4
+http://192.168.5.50:6875/ace/manifest.m3u8?id=2a5d90651e212106434edea5bfbba1a843b7b97c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="M+ Deportes" tvg-id="M+ Deportes 4", M+ Deportes 4
+http://192.168.5.50:6875/ace/manifest.m3u8?id=4abe06c5cce7cb3c6bef2c3bccaafefd3299794f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" group-title="M+ Deportes" tvg-id="M+ Deportes 4", M+ Deportes 4
+http://192.168.5.50:6875/ace/manifest.m3u8?id=8b5f9d967384afab226dd759e6e9dfaee9993869
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvZ2tSB/deportes5.png" group-title="M+ Deportes" tvg-id="M+ Deportes 5", M+ Deportes 5
-http://192.168.5.50:6875/ace/manifest.m3u8?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvZ2tSB/deportes5.png" group-title="M+ Deportes" tvg-id="M+ Deportes 5", M+ Deportes 5 F
-http://192.168.5.50:6875/ace/manifest.m3u8?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvZ2tSB/deportes5.png" group-title="M+ Deportes" tvg-id="M+ Deportes 5", M+ Deportes 5 F
-http://192.168.5.50:6875/ace/manifest.m3u8?id=f6961e0dbf9b6ede4f5be93b72dc15533b4063d4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvZ2tSB/deportes5.png" group-title="M+ Deportes" tvg-id="M+ Deportes 5", M+ Deportes 5 F
+http://192.168.5.50:6875/ace/manifest.m3u8?id=5913205fb6d6d162a50222709aab6129eb7cf916
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvZ2tSB/deportes5.png" group-title="M+ Deportes" tvg-id="M+ Deportes 5", M+ Deportes 5
+http://192.168.5.50:6875/ace/manifest.m3u8?id=646a1ed4ece843de1979f7888cbdd4d937506a28
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvZ2tSB/deportes5.png" group-title="M+ Deportes" tvg-id="M+ Deportes 5", M+ Deportes 5
+http://192.168.5.50:6875/ace/manifest.m3u8?id=3230cdca852a10325222e3c546e499e31d547a90
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvZ2tSB/deportes5.png" group-title="M+ Deportes" tvg-id="M+ Deportes 5", M+ Deportes 5
 http://192.168.5.50:6875/ace/manifest.m3u8?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gkW4PY/deportes6.png" group-title="M+ Deportes" tvg-id="M+ Deportes 6", M+ Deportes 6
-http://192.168.5.50:6875/ace/manifest.m3u8?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2gkW4PY/deportes6.png" group-title="M+ Deportes" tvg-id="M+ Deportes 6", M+ Deportes 6 F
+http://192.168.5.50:6875/ace/manifest.m3u8?id=e6cd9205e26b3b6680f607030c702e911272524a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2gkW4PY/deportes6.png" group-title="M+ Deportes" tvg-id="M+ Deportes 6", M+ Deportes 6
+http://192.168.5.50:6875/ace/manifest.m3u8?id=8f982a0d6e3196c12d0034142b65008321150f7c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2gkW4PY/deportes6.png" group-title="M+ Deportes" tvg-id="M+ Deportes 6", M+ Deportes 6
 http://192.168.5.50:6875/ace/manifest.m3u8?id=e4124b2143ed75e5ce902bed61be08cc5e5c3c03
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2gkW4PY/deportes6.png" group-title="M+ Deportes" tvg-id="M+ Deportes 6", M+ Deportes 6 F
-http://192.168.5.50:6875/ace/manifest.m3u8?id=cc5782d37ae6b6e0bab396dd64074982d0879046
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxTVvN1/Deportes7.png" group-title="M+ Deportes" tvg-id="M+ Deportes 7", M+ Deportes 7
 http://192.168.5.50:6875/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="M+" tvg-id="M+ Vamos", Vamos 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=5e310dbffed8c941d20ad819cb8ef43c34b07884
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="M+" tvg-id="M+ Vamos", Vamos 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="M+" tvg-id="M+ Vamos", Vamos 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" group-title="Vamos" tvg-id="M+ Ellas Vamos HD", Ellas Vamos
 http://192.168.5.50:6875/ace/manifest.m3u8?id=9b84af74b2fa3690c519199326fc2f181b025cdd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" group-title="Vamos" tvg-id="M+ Ellas Vamos HD", Ellas Vamos F
 http://192.168.5.50:6875/ace/manifest.m3u8?id=d8c2ed470e847154a88f011137cc206319f6bed5
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Vamos" tvg-id="M+ Vamos HD", Vamos
-http://192.168.5.50:6875/ace/manifest.m3u8?id=3b2a8b41e7097c16b0468b42d7de0320886fa933
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Vamos" tvg-id="M+ Vamos HD", Vamos
-http://192.168.5.50:6875/ace/manifest.m3u8?id=2940120bf034db79a7f5849846ccea0255172eae
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Vamos" tvg-id="M+ Vamos HD", Vamos
-http://192.168.5.50:6875/ace/manifest.m3u8?id=0e5d8c9724fa9163f49096b70484e315251eb785
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbvYBhq/skytenis.png" group-title="Otros", Sky Sports Tennis
@@ -88,9 +97,9 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Otros", Tennis Channel
 http://192.168.5.50:6875/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s6mjKYH/euro1.png" group-title="Otros" tvg-id="Eurosport 1", Eurosport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6mjKYH/euro1.png" group-title="Otros", Eurosport 1
 http://192.168.5.50:6875/ace/manifest.m3u8?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" group-title="Otros" tvg-id="Eurosport 2", Eurosport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" group-title="Otros", Eurosport 2
 http://192.168.5.50:6875/ace/manifest.m3u8?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 
 
