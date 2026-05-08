@@ -5,11 +5,11 @@ http://192.168.5.50:6870/ace/manifest.m3u8?id=b6ffbbc72a5b6b579faf79ebac229af7a2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="M+" tvg-id="Movistar+", Movistar+
 http://192.168.5.50:6870/ace/manifest.m3u8?id=c1b7f54af0de256d1ac0fcac4c130e62660089f4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="M+" tvg-id="M+ Vamos", Vamos
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Vamos" tvg-id="M+ Vamos", Vamos
 http://192.168.5.50:6870/ace/manifest.m3u8?id=0e5d8c9724fa9163f49096b70484e315251eb785
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="M+" tvg-id="M+ Vamos", Vamos
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Vamos" tvg-id="M+ Vamos", Vamos
 http://192.168.5.50:6870/ace/manifest.m3u8?id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc77
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="M+" tvg-id="M+ Vamos", Vamos
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Vamos" tvg-id="M+ Vamos", Vamos
 http://192.168.5.50:6870/ace/manifest.m3u8?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes", M+ Deportes
@@ -79,11 +79,11 @@ http://192.168.5.50:6870/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="M+" tvg-id="M+ Vamos", Vamos 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Vamos" tvg-id="M+ Vamos", Vamos 2
 http://192.168.5.50:6870/ace/manifest.m3u8?id=5e310dbffed8c941d20ad819cb8ef43c34b07884
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="M+" tvg-id="M+ Vamos", Vamos 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Vamos" tvg-id="M+ Vamos", Vamos 2
 http://192.168.5.50:6870/ace/manifest.m3u8?id=0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="M+" tvg-id="M+ Vamos", Vamos 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="Vamos" tvg-id="M+ Vamos", Vamos 2
 http://192.168.5.50:6870/ace/manifest.m3u8?id=f51674b1dd1ab5a668fa97a0f13a490632f0d7ca
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" group-title="Vamos" tvg-id="M+ Ellas Vamos HD", Ellas Vamos
