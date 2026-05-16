@@ -25,6 +25,7 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=2f3cfd199a49819cbd129689a840dc3d23
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes", M+ Deportes
 http://192.168.5.50:6875/ace/manifest.m3u8?id=3b50a1dca0977e3761d016edd79314ab797f74f6
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="M+ Deportes" tvg-id="M+ Deportes 2", M+ Deportes 2
 http://192.168.5.50:6875/ace/manifest.m3u8?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="M+ Deportes" tvg-id="M+ Deportes 2", M+ Deportes 2
@@ -94,8 +95,16 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=d8c2ed470e847154a88f011137cc206319
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbvYBhq/skytenis.png" group-title="Otros", Sky Sports Tennis
 http://192.168.5.50:6875/ace/manifest.m3u8?id=b58dbf92765976b308695f62dea94b00b40730ee
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Otros", Tennis Channel
+http://192.168.5.50:6875/ace/manifest.m3u8?id=43c549e5781f5a923b76f8f29cde122b5be164eb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Otros", Tennis Channel
 http://192.168.5.50:6875/ace/manifest.m3u8?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Otros", Tennis Channel
+http://192.168.5.50:6875/ace/manifest.m3u8?id=a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="Otros", Tennis Channel
+http://192.168.5.50:6875/ace/manifest.m3u8?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6mjKYH/euro1.png" group-title="Otros", Eurosport 1
 http://192.168.5.50:6875/ace/manifest.m3u8?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
