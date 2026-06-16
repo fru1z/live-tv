@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial
+http://192.168.5.50:6875/ace/manifest.m3u8?id=ccfde4bc75d14c79dd09af72434568a0e732d507
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial
+http://192.168.5.50:6875/ace/manifest.m3u8?id=414222dc7b69a626f29eb964450dae44b3bc9b36
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=63b1933154919d116f08e33ffcb31a23f9483989
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial 3
+http://192.168.5.50:6875/ace/manifest.m3u8?id=f28f558a7699237cb4ec1e0075db4073ffc3a415
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial 3
+http://192.168.5.50:6875/ace/manifest.m3u8?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="LaLiga Hypermotion", LaLiga TV Hypermotion
+http://192.168.5.50:6875/ace/manifest.m3u8?id=c457b5614df986a6e6a24ffd9547964820ca65fb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="LaLiga Hypermotion", LaLiga TV Hypermotion
+http://192.168.5.50:6875/ace/manifest.m3u8?id=ee8ce83c44dc9b1e331672e2a0166e2830b00040
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="LaLiga Hypermotion", LaLiga TV Hypermotion 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=a5b9d834ad92bfb80fe01bf89cc20bd68be199fb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="LaLiga Hypermotion", LaLiga TV Hypermotion 2
+http://192.168.5.50:6875/ace/manifest.m3u8?id=3a21e651c0bffe810cfc8537065cb81f5ed68a55
+
+
