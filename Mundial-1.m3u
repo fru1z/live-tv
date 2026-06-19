@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fru1z/live-tv/refs/heads/main/logos/dazn_mundial.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial
 http://192.168.5.50:6870/ace/manifest.m3u8?id=ccfde4bc75d14c79dd09af72434568a0e732d507
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fru1z/live-tv/refs/heads/main/logos/dazn_mundial.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial
 http://192.168.5.50:6870/ace/manifest.m3u8?id=414222dc7b69a626f29eb964450dae44b3bc9b36
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fru1z/live-tv/refs/heads/main/logos/dazn_mundial.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial 2
 http://192.168.5.50:6870/ace/manifest.m3u8?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fru1z/live-tv/refs/heads/main/logos/dazn_mundial.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial 2
 http://192.168.5.50:6870/ace/manifest.m3u8?id=63b1933154919d116f08e33ffcb31a23f9483989
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" group-title="DAZN" tvg-id="DAZN Mundial", DAZN Mundial 3
