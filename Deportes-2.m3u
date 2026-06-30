@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="M+" tvg-id="Movistar+", Movistar+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" group-title="M+" tvg-id="Movistar+", Movistar+
 http://192.168.5.50:6875/ace/manifest.m3u8?id=8c67cdb5ba81976662c3a67984a9545d9cfb0f70
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="M+" tvg-id="Movistar+", Movistar+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" group-title="M+" tvg-id="Movistar+", Movistar+
 http://192.168.5.50:6875/ace/manifest.m3u8?id=fa931cbc87dc9d66fdd30a9644e054b403960056
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M+ Deportes" tvg-id="M+ Deportes", M+ Deportes
