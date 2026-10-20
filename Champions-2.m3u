@@ -9,19 +9,19 @@ http://192.168.5.50:6875/ace/manifest.m3u8?id=1ab443f5b4beb6d586f19e8b25b9f9646c
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M+ Campeones" tvg-id="M+ Liga de Campeones", Liga de Campeones por M+
+http://192.168.5.50:6875/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M+ Campeones" tvg-id="M+ Liga de Campeones", Liga de Campeones por M+
 http://192.168.5.50:6875/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M+ Campeones" tvg-id="M+ Liga de Campeones", Liga de Campeones por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+http://192.168.5.50:6875/ace/manifest.m3u8?id=0f0850a62ecdc4f79eec221cbebad01f3e0242bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M+ Campeones" tvg-id="M+ Liga de Campeones", Liga de Campeones por M+
 http://192.168.5.50:6875/ace/manifest.m3u8?id=931fd4c24398a24beb9b6ede856ca34339ff2c22
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M+ Campeones" tvg-id="M+ Liga de Campeones", Liga de Campeones por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+http://192.168.5.50:6875/ace/manifest.m3u8?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M+ Campeones" tvg-id="M+ Liga de Campeones", Liga de Campeones por M+
 http://192.168.5.50:6875/ace/manifest.m3u8?id=91af434b0bb521189286f8cbbab1aed39d7536fe
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M+ Campeones" tvg-id="M+ Liga de Campeones", Liga de Campeones por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M+ Campeones" tvg-id="M+ Liga de Campeones", Liga de Campeones por M+
-http://192.168.5.50:6875/ace/manifest.m3u8?id=0f0850a62ecdc4f79eec221cbebad01f3e0242bc
+http://192.168.5.50:6875/ace/manifest.m3u8?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2", Liga de Campeones 2 por M+
